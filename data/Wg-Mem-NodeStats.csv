@@ -1,0 +1,1139 @@
+Id,Label,frequency,type,Degree,Weighted Degree,Eccentricity,Closeness Centrality,Betweenness Centrality,Modularity Class,Clustering Coefficient,Number of triangles,Weighted Clustering Coefficient,Strenght,Eigenvector Centrality
+Marcio Faerman,Marcio Faerman,2,Members,0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0.0,0.0
+Peter Fox,Peter Fox,8,Members,16,61.0,3.0,1.9786666666666666,0.0,286,1.0,120,1.0,61.0,0.15845392534379651
+Roger Proctor,Roger Proctor,3,Members,4,12.0,3.0,2.024,0.0,286,1.0,6,1.0,12.0,0.04324109275213138
+Angus Whyte,Angus Whyte,3,Members,5,15.0,3.0,2.024,0.0,440,1.0,10,1.0,15.0,0.047652782805676856
+christie wiley,christie wiley,2,Members,0,0.0,0.0,0.0,0.0,1,0.0,0,0.0,0.0,0.0
+Laura Soito,Laura Soito,5,Members,11,40.0,3.0,2.005333333333333,6.8845238095238095,79,0.6545454545454545,36,0.7,40.0,0.05258960668536861
+Andrew Davison,Andrew Davison,1,Members,0,0.0,0.0,0.0,0.0,2,0.0,0,0.0,0.0,0.0
+LuÃ_s Alves,LuÃ_s Alves,1,Members,0,0.0,0.0,0.0,0.0,3,0.0,0,0.0,0.0,0.0
+Research data needs of the Photon and Neutron Science community,Research data needs of the Photon and Neutron Science community,1,Working Group,0,0.0,0.0,0.0,0.0,4,0.0,0,0.0,0.0,0.0
+Eileen Harrington,Eileen Harrington,1,; Members,0,0.0,0.0,0.0,0.0,5,0.0,0,0.0,0.0,0.0
+Lisa Neidert,Lisa Neidert,1,; Members,0,0.0,0.0,0.0,0.0,6,0.0,0,0.0,0.0,0.0
+Esther Conway,Esther Conway,2,; Members,0,0.0,0.0,0.0,0.0,7,0.0,0,0.0,0.0,0.0
+Louise Corti,Louise Corti,1,; Members,0,0.0,0.0,0.0,0.0,8,0.0,0,0.0,0.0,0.0
+Peter Kirsch,Peter Kirsch,1,; Members,0,0.0,0.0,0.0,0.0,9,0.0,0,0.0,0.0,0.0
+Amye Kenall,Amye Kenall,3,; Members,4,12.0,3.0,2.021333333333333,0.0,489,1.0,6,1.0,12.0,0.04108735129180666
+Nikos Manouselis,Nikos Manouselis,1,; Members,0,0.0,0.0,0.0,0.0,10,0.0,0,0.0,0.0,0.0
+Wolfgang Zenk-MÃ¶ltgen,Wolfgang Zenk-MÃ¶ltgen,3,; Members,11,33.0,3.0,2.002666666666667,0.0,489,1.0,55,0.99999994,33.0,0.09846058459072292
+Jedrzej Rybicki,Jedrzej Rybicki,1,; Members,0,0.0,0.0,0.0,0.0,11,0.0,0,0.0,0.0,0.0
+Giuseppe Andronico,Giuseppe Andronico,1,; Members,0,0.0,0.0,0.0,0.0,12,0.0,0,0.0,0.0,0.0
+Jennifer Boyd,Jennifer Boyd,1,; Members,0,0.0,0.0,0.0,0.0,13,0.0,0,0.0,0.0,0.0
+Adrian Ogletree,Adrian Ogletree,1,; Members,0,0.0,0.0,0.0,0.0,14,0.0,0,0.0,0.0,0.0
+Heinz Schmidt,Heinz Schmidt,1,; Members,0,0.0,0.0,0.0,0.0,15,0.0,0,0.0,0.0,0.0
+Dietrich Schroeder,Dietrich Schroeder,1,; Members,0,0.0,0.0,0.0,0.0,16,0.0,0,0.0,0.0,0.0
+Stephen Slota,Stephen Slota,1,; Members,0,0.0,0.0,0.0,0.0,17,0.0,0,0.0,0.0,0.0
+Brigitte Hausstein,Brigitte Hausstein,2,; Members,0,0.0,0.0,0.0,0.0,18,0.0,0,0.0,0.0,0.0
+Luca Matteis,Luca Matteis,2,; Members,0,0.0,0.0,0.0,0.0,19,0.0,0,0.0,0.0,0.0
+Mark Leggott,Mark Leggott,18,; Members,169,790.0,3.0,1.5546666666666666,1114.3758466457186,286,0.28465765004226545,4041,0.39746082,790.0,0.7715918454755661
+May Yuan,May Yuan,1,; Members,0,0.0,0.0,0.0,0.0,20,0.0,0,0.0,0.0,0.0
+Sy Holsinger,Sy Holsinger,1,; Members,0,0.0,0.0,0.0,0.0,21,0.0,0,0.0,0.0,0.0
+Anita de Waard,Anita de Waard,2,; Members,0,0.0,0.0,0.0,0.0,22,0.0,0,0.0,0.0,0.0
+Benjamin Branch,Benjamin Branch,1,; Members,0,0.0,0.0,0.0,0.0,23,0.0,0,0.0,0.0,0.0
+Heidi Dowding,Heidi Dowding,1,; Members,0,0.0,0.0,0.0,0.0,24,0.0,0,0.0,0.0,0.0
+Kate Scrivens,Kate Scrivens,1,; Members,0,0.0,0.0,0.0,0.0,25,0.0,0,0.0,0.0,0.0
+Adrian Burton,Adrian Burton,6,; Members,9,31.0,3.0,2.013333333333333,0.6741269841269841,286,0.8333333333333334,30,0.83870965,31.0,0.06830248734922874
+Claire Ellul,Claire Ellul,1,; Members,0,0.0,0.0,0.0,0.0,26,0.0,0,0.0,0.0,0.0
+Darren Bell,Darren Bell,2,; Members,0,0.0,0.0,0.0,0.0,27,0.0,0,0.0,0.0,0.0
+Tim Duffy,Tim Duffy,2,; Members,0,0.0,0.0,0.0,0.0,28,0.0,0,0.0,0.0,0.0
+Inna Kouper,Inna Kouper,9,; Members,60,216.0,3.0,1.8533333333333333,65.42726257908522,440,0.5966101694915255,1056,0.6358286,216.0,0.3798761345635407
+Maria Llosent,Maria Llosent,2,; Members,0,0.0,0.0,0.0,0.0,29,0.0,0,0.0,0.0,0.0
+Maria Brovelli,Maria Brovelli,1,; Members,0,0.0,0.0,0.0,0.0,30,0.0,0,0.0,0.0,0.0
+Big Data Analytics IG,Big Data Analytics IG,1,Working Group,0,0.0,0.0,0.0,0.0,31,0.0,0,0.0,0.0,0.0
+Jens Ludwig,Jens Ludwig,1,; Members,0,0.0,0.0,0.0,0.0,32,0.0,0,0.0,0.0,0.0
+William Michener,William Michener,1,; Members,0,0.0,0.0,0.0,0.0,33,0.0,0,0.0,0.0,0.0
+Amber Leahey,Amber Leahey,3,; Members,0,0.0,0.0,0.0,0.0,34,0.0,0,0.0,0.0,0.0
+Stephan Zednik,Stephan Zednik,1,; Members,0,0.0,0.0,0.0,0.0,35,0.0,0,0.0,0.0,0.0
+Kate Lance,Kate Lance,1,; Members,0,0.0,0.0,0.0,0.0,36,0.0,0,0.0,0.0,0.0
+Jessica Forsgard,Jessica Forsgard,1,; Members,0,0.0,0.0,0.0,0.0,37,0.0,0,0.0,0.0,0.0
+Stephen Richard,Stephen Richard,5,; Members,27,95.0,3.0,1.9573333333333334,1.1668433226194572,286,0.9287749287749287,326,0.93846154,95.0,0.2186443980533464
+Shannon Rauch,Shannon Rauch,1,; Members,0,0.0,0.0,0.0,0.0,38,0.0,0,0.0,0.0,0.0
+Ajinkya Prabhune,Ajinkya Prabhune,9,; Members,75,293.0,3.0,1.8053333333333332,92.34540626380407,440,0.6057657657657658,1681,0.6545983,293.0,0.4749293585854357
+Mark Gahegan,Mark Gahegan,2,; Members,0,0.0,0.0,0.0,0.0,39,0.0,0,0.0,0.0,0.0
+Dagmar Meyer,Dagmar Meyer,14,; Members,128,546.0,3.0,1.664,1128.1025599309055,489,0.34633366141732286,2815,0.42513916,546.0,0.623207311613044
+Colin Elman,Colin Elman,1,; Members,0,0.0,0.0,0.0,0.0,40,0.0,0,0.0,0.0,0.0
+Nathan Stone,Nathan Stone,1,; Members,0,0.0,0.0,0.0,0.0,41,0.0,0,0.0,0.0,0.0
+Sven Vlaeminck,Sven Vlaeminck,3,; Members,6,18.0,3.0,2.010666666666667,0.0,440,1.0,15,1.0,18.0,0.04383858027265447
+Avgoustinos Constantinides,Avgoustinos Constantinides,1,; Members,0,0.0,0.0,0.0,0.0,42,0.0,0,0.0,0.0,0.0
+Carole Goble,Carole Goble,3,; Members,0,0.0,0.0,0.0,0.0,43,0.0,0,0.0,0.0,0.0
+Robert Ulrich,Robert Ulrich,1,; Members,0,0.0,0.0,0.0,0.0,44,0.0,0,0.0,0.0,0.0
+Ben Scott,Ben Scott,2,; Members,0,0.0,0.0,0.0,0.0,45,0.0,0,0.0,0.0,0.0
+Education and Training on handling of research data,Education and Training on handling of research data,1,Working Group,0,0.0,0.0,0.0,0.0,46,0.0,0,0.0,0.0,0.0
+Daniel S. Katz,Daniel S. Katz,2,; Members,0,0.0,0.0,0.0,0.0,47,0.0,0,0.0,0.0,0.0
+Melissa Cefkin,Melissa Cefkin,1,; Members,0,0.0,0.0,0.0,0.0,48,0.0,0,0.0,0.0,0.0
+Melissa Cragin,Melissa Cragin,2,; Members,0,0.0,0.0,0.0,0.0,49,0.0,0,0.0,0.0,0.0
+Ann Green,Ann Green,1,; Members,0,0.0,0.0,0.0,0.0,50,0.0,0,0.0,0.0,0.0
+Lilian Neerut,Lilian Neerut,2,; Members,0,0.0,0.0,0.0,0.0,51,0.0,0,0.0,0.0,0.0
+Suchith Anand,Suchith Anand,14,; Members,82,344.0,3.0,1.7893333333333334,295.02039858639694,763,0.43360433604336046,1440,0.51629347,344.0,0.43932635732922676
+Hannah Norton,Hannah Norton,1,; Members,0,0.0,0.0,0.0,0.0,52,0.0,0,0.0,0.0,0.0
+Mijke Jetten,Mijke Jetten,1,; Members,0,0.0,0.0,0.0,0.0,53,0.0,0,0.0,0.0,0.0
+Natascha Schumann,Natascha Schumann,1,; Members,0,0.0,0.0,0.0,0.0,54,0.0,0,0.0,0.0,0.0
+Yuantao Kou,Yuantao Kou,1,; Members,0,0.0,0.0,0.0,0.0,55,0.0,0,0.0,0.0,0.0
+Helen Kay Raseroka,Helen Kay Raseroka,1,; Members,0,0.0,0.0,0.0,0.0,56,0.0,0,0.0,0.0,0.0
+Pilar Cos Alvarez,Pilar Cos Alvarez,5,; Members,11,37.0,3.0,1.992,0.22658668730650156,489,0.9454545454545454,52,0.9513514,37.0,0.09132227554624832
+Marta Teperek,Marta Teperek,1,; Members,0,0.0,0.0,0.0,0.0,57,0.0,0,0.0,0.0,0.0
+Alexia Katsanidou,Alexia Katsanidou,1,; Members,0,0.0,0.0,0.0,0.0,58,0.0,0,0.0,0.0,0.0
+Malcolm Wolski,Malcolm Wolski,4,; Members,4,12.0,3.0,2.024,0.125,79,0.8333333333333334,5,0.8333333,12.0,0.038820425124825725
+Jian Qin,Jian Qin,1,; Members,0,0.0,0.0,0.0,0.0,59,0.0,0,0.0,0.0,0.0
+Katrine Whiteson,Katrine Whiteson,1,; Members,0,0.0,0.0,0.0,0.0,60,0.0,0,0.0,0.0,0.0
+Tuong-Thuy Vu,Tuong-Thuy Vu,1,; Members,0,0.0,0.0,0.0,0.0,61,0.0,0,0.0,0.0,0.0
+Nigel Ward,Nigel Ward,1,; Members,0,0.0,0.0,0.0,0.0,62,0.0,0,0.0,0.0,0.0
+Brian Sontag,Brian Sontag,1,; Members,0,0.0,0.0,0.0,0.0,63,0.0,0,0.0,0.0,0.0
+Anirudh Prabhu,Anirudh Prabhu,1,; Members,0,0.0,0.0,0.0,0.0,64,0.0,0,0.0,0.0,0.0
+William Block,William Block,1,; Members,0,0.0,0.0,0.0,0.0,65,0.0,0,0.0,0.0,0.0
+Giuseppe Fiameni,Giuseppe Fiameni,3,; Members,10,30.0,3.0,2.008,0.0,286,1.0,45,1.0,30.0,0.09460675965922648
+Giorgio Pedrazzi,Giorgio Pedrazzi,1,; Members,0,0.0,0.0,0.0,0.0,66,0.0,0,0.0,0.0,0.0
+Jaroslaw Nabrzyski,Jaroslaw Nabrzyski,2,; Members,0,0.0,0.0,0.0,0.0,67,0.0,0,0.0,0.0,0.0
+Christoph Becker,Christoph Becker,4,; Members,12,38.0,3.0,2.002666666666667,0.5972222222222222,286,0.9242424242424242,61,0.92822963,38.0,0.10641676673592562
+Markus Binsteiner,Markus Binsteiner,2,; Members,0,0.0,0.0,0.0,0.0,68,0.0,0,0.0,0.0,0.0
+Chuang Liu,Chuang Liu,1,; Members,0,0.0,0.0,0.0,0.0,69,0.0,0,0.0,0.0,0.0
+Robert Downs,Robert Downs,7,; Members,36,121.0,3.0,1.92,131.09365365665263,489,0.7492063492063492,472,0.76694214,121.0,0.25435744496531315
+Fernando Aguilar,Fernando Aguilar,3,; Members,1,3.0,3.0,2.042666666666667,0.0,489,0.0,0,0.0,3.0,0.013793555484353725
+Simeon Warner,Simeon Warner,1,; Members,0,0.0,0.0,0.0,0.0,70,0.0,0,0.0,0.0,0.0
+Sridhar Gutam,Sridhar Gutam,4,; Members,5,15.0,3.0,2.032,1.583333333333333,79,0.6,6,0.6,15.0,0.016505842274409783
+Takanori Hayashi,Takanori Hayashi,1,; Members,0,0.0,0.0,0.0,0.0,71,0.0,0,0.0,0.0,0.0
+Eefke Smit,Eefke Smit,5,; Members,22,94.0,3.0,1.9626666666666666,0.6279109538552263,489,0.9696969696969697,224,0.9782169,94.0,0.1278634905458902
+Tim Austin,Tim Austin,3,; Members,3,9.0,3.0,2.037333333333333,0.0,489,1.0,3,1.0,9.0,0.023940967518025148
+Adi Alter,Adi Alter,3,; Members,3,9.0,4.0,2.8053333333333335,0.0,489,1.0,3,1.0,9.0,0.01049589057953635
+Tobias Richter,Tobias Richter,1,; Members,0,0.0,0.0,0.0,0.0,72,0.0,0,0.0,0.0,0.0
+Patrick Fuhrmann,Patrick Fuhrmann,1,; Members,0,0.0,0.0,0.0,0.0,73,0.0,0,0.0,0.0,0.0
+Stefan Stegemann,Stefan Stegemann,1,; Members,0,0.0,0.0,0.0,0.0,74,0.0,0,0.0,0.0,0.0
+Laurents Sesink,Laurents Sesink,1,; Members,0,0.0,0.0,0.0,0.0,75,0.0,0,0.0,0.0,0.0
+Garret McMahon,Garret McMahon,10,; Members,79,347.0,3.0,1.8053333333333332,51.144225595311184,697,0.6293411230120091,1939,0.7068647,347.0,0.5075564351924913
+Jan Dvorak,Jan Dvorak,1,; Members,0,0.0,0.0,0.0,0.0,76,0.0,0,0.0,0.0,0.0
+Markus DÃ¶ring,Markus DÃ¶ring,2,; Members,0,0.0,0.0,0.0,0.0,77,0.0,0,0.0,0.0,0.0
+Yunqiang Zhu,Yunqiang Zhu,1,; Members,0,0.0,0.0,0.0,0.0,78,0.0,0,0.0,0.0,0.0
+Imma Subirats Coll,Imma Subirats Coll,5,; Members,19,63.0,3.0,1.9786666666666666,22.947018650513602,79,0.6140350877192983,105,0.63051146,63.0,0.1218948025296769
+Robert Jeansoulin,Robert Jeansoulin,1,; Members,0,0.0,0.0,0.0,0.0,80,0.0,0,0.0,0.0,0.0
+Ingrid Dillo,Ingrid Dillo,6,; Members,28,123.0,3.0,1.9413333333333334,5.022650557254653,489,0.8359788359788359,316,0.86781085,123.0,0.15941636724055705
+Yui Nishizono,Yui Nishizono,2,; Members,0,0.0,0.0,0.0,0.0,81,0.0,0,0.0,0.0,0.0
+Andrea Ogier,Andrea Ogier,3,; Members,6,18.0,3.0,2.010666666666667,0.0,440,1.0,15,1.0,18.0,0.043838580272654463
+LILI YANG,LILI YANG,1,; Members,0,0.0,0.0,0.0,0.0,82,0.0,0,0.0,0.0,0.0
+Oliver Schmitt,Oliver Schmitt,1,; Members,0,0.0,0.0,0.0,0.0,83,0.0,0,0.0,0.0,0.0
+Robert Groman,Robert Groman,1,; Members,0,0.0,0.0,0.0,0.0,84,0.0,0,0.0,0.0,0.0
+Heikki Sundquist,Heikki Sundquist,1,; Members,0,0.0,0.0,0.0,0.0,85,0.0,0,0.0,0.0,0.0
+Byron Georgantopoulos,Byron Georgantopoulos,1,; Members,0,0.0,0.0,0.0,0.0,86,0.0,0,0.0,0.0,0.0
+Jo McEntyre,Jo McEntyre,2,; Members,0,0.0,0.0,0.0,0.0,87,0.0,0,0.0,0.0,0.0
+Kate Alderete,Kate Alderete,1,; Members,0,0.0,0.0,0.0,0.0,88,0.0,0,0.0,0.0,0.0
+Rachael Black,Rachael Black,7,; Members,37,134.0,3.0,1.9226666666666667,24.644506127536637,440,0.6861861861861862,457,0.7205638,134.0,0.2438835372787565
+Giridhar Manepalli,Giridhar Manepalli,1,; Members,0,0.0,0.0,0.0,0.0,89,0.0,0,0.0,0.0,0.0
+Naresh Kumar,Naresh Kumar,2,; Members,0,0.0,0.0,0.0,0.0,90,0.0,0,0.0,0.0,0.0
+RDA/WDS Certification of Digital Repositories IG,RDA/WDS Certification of Digital Repositories IG,1,Working Group,0,0.0,0.0,0.0,0.0,91,0.0,0,0.0,0.0,0.0
+Mark Parsons,Mark Parsons,15,; Members,148,680.0,3.0,1.6106666666666667,645.7111985830394,489,0.342985842985843,3731,0.44037613,680.0,0.7317851920039764
+Catherine Jones,Catherine Jones,1,; Members,0,0.0,0.0,0.0,0.0,92,0.0,0,0.0,0.0,0.0
+Yolanda Meleco,Yolanda Meleco,19,; Members,108,478.0,3.0,1.728,433.9448041403341,286,0.3888888888888889,2247,0.4769288,478.0,0.5493177079705042
+Franziska Ackermann,Franziska Ackermann,4,; Members,4,12.0,3.0,2.034666666666667,0.0,440,1.0,6,1.0,12.0,0.03702539260453292
+Sarah Olesen,Sarah Olesen,1,; Members,0,0.0,0.0,0.0,0.0,93,0.0,0,0.0,0.0,0.0
+Patricia Herterich,Patricia Herterich,2,; Members,0,0.0,0.0,0.0,0.0,94,0.0,0,0.0,0.0,0.0
+Peter Pissierssens,Peter Pissierssens,5,; Members,37,131.0,3.0,1.9173333333333333,3.644168927516208,489,0.8768768768768769,584,0.89355385,131.0,0.28509674336128715
+Martin Parr,Martin Parr,1,; Members,0,0.0,0.0,0.0,0.0,95,0.0,0,0.0,0.0,0.0
+Licia Florio,Licia Florio,1,; Members,0,0.0,0.0,0.0,0.0,96,0.0,0,0.0,0.0,0.0
+Esa-Pekka Keskitalo,Esa-Pekka Keskitalo,1,; Members,0,0.0,0.0,0.0,0.0,97,0.0,0,0.0,0.0,0.0
+Anna Krohn,Anna Krohn,2,; Members,0,0.0,0.0,0.0,0.0,98,0.0,0,0.0,0.0,0.0
+Reinhard Budich,Reinhard Budich,2,; Members,0,0.0,0.0,0.0,0.0,99,0.0,0,0.0,0.0,0.0
+San Cannon,San Cannon,2,; Members,0,0.0,0.0,0.0,0.0,100,0.0,0,0.0,0.0,0.0
+Allen Dearry,Allen Dearry,4,; Members,3,10.0,3.0,2.032,0.0,489,1.0,3,1.0,10.0,0.03150711726977893
+Paul Weiss,Paul Weiss,1,; Members,0,0.0,0.0,0.0,0.0,101,0.0,0,0.0,0.0,0.0
+Niels van Dijk,Niels van Dijk,1,; Members,0,0.0,0.0,0.0,0.0,102,0.0,0,0.0,0.0,0.0
+Digital Practices in History and Ethnography IG,Digital Practices in History and Ethnography IG,1,Working Group,0,0.0,0.0,0.0,0.0,103,0.0,0,0.0,0.0,0.0
+Stephen Wolff,Stephen Wolff,3,; Members,7,21.0,3.0,2.010666666666667,0.0,440,1.0,21,1.0,21.0,0.06837947060048838
+Colin J Wright,Colin J Wright,4,; Members,13,42.0,3.0,1.992,1.8803751803751803,440,0.8205128205128205,64,0.8333334,42.0,0.09352370302768753
+Alessandra Scicchitano,Alessandra Scicchitano,1,; Members,0,0.0,0.0,0.0,0.0,104,0.0,0,0.0,0.0,0.0
+Cindy Nguyen,Cindy Nguyen,1,; Members,0,0.0,0.0,0.0,0.0,105,0.0,0,0.0,0.0,0.0
+Kenneth Haug,Kenneth Haug,1,; Members,0,0.0,0.0,0.0,0.0,106,0.0,0,0.0,0.0,0.0
+Ã‰amonn Ã“ Tuama,Ã‰amonn Ã“ Tuama,3,; Members,2,6.0,3.0,2.029333333333333,0.0,489,1.0,1,1.0,6.0,0.026905736959096368
+Tim Clark,Tim Clark,1,; Members,0,0.0,0.0,0.0,0.0,107,0.0,0,0.0,0.0,0.0
+Laurel Haak,Laurel Haak,2,; Members,0,0.0,0.0,0.0,0.0,108,0.0,0,0.0,0.0,0.0
+Guido Aben,Guido Aben,1,; Members,0,0.0,0.0,0.0,0.0,109,0.0,0,0.0,0.0,0.0
+Roger Longhorn,Roger Longhorn,2,; Members,0,0.0,0.0,0.0,0.0,110,0.0,0,0.0,0.0,0.0
+Alejandro Engelmann,Alejandro Engelmann,1,; Members,0,0.0,0.0,0.0,0.0,111,0.0,0,0.0,0.0,0.0
+Isaac Simmons,Isaac Simmons,1,; Members,0,0.0,0.0,0.0,0.0,112,0.0,0,0.0,0.0,0.0
+Francis ANDRE,Francis ANDRE,3,; Members,2,6.0,3.0,2.04,0.0,489,1.0,1,1.0,6.0,0.024728461352334054
+Maarten Kremers,Maarten Kremers,1,; Members,0,0.0,0.0,0.0,0.0,113,0.0,0,0.0,0.0,0.0
+Vincent Razanajao,Vincent Razanajao,3,; Members,2,6.0,3.0,2.04,0.0,763,1.0,1,1.0,6.0,0.0195964574116424
+Brandon Costelloe-Kuehn,Brandon Costelloe-Kuehn,4,; Members,19,61.0,3.0,1.9786666666666666,0.4266273914324889,697,0.9415204678362573,161,0.9453552,61.0,0.15743044092855096
+Hongfeng Yu,Hongfeng Yu,1,; Members,0,0.0,0.0,0.0,0.0,114,0.0,0,0.0,0.0,0.0
+Tim DiLauro,Tim DiLauro,3,; Members,5,15.0,3.0,2.026666666666667,0.0,286,1.0,10,1.0,15.0,0.043504629806634734
+Paul Uhlir,Paul Uhlir,3,; Members,3,9.0,3.0,2.026666666666667,0.0,440,1.0,3,1.0,9.0,0.03801372291798494
+John Garrett,John Garrett,2,; Members,0,0.0,0.0,0.0,0.0,115,0.0,0,0.0,0.0,0.0
+Martina Stockhause,Martina Stockhause,10,; Members,57,245.0,3.0,1.8613333333333333,57.38425786145977,489,0.6165413533834586,984,0.6562682,245.0,0.34690609886649465
+Sarah Jones,Sarah Jones,3,; Members,3,9.0,3.0,2.029333333333333,0.0,489,1.0,3,1.0,9.0,0.03110591062975257
+Data Type Registries WG,Data Type Registries WG,1,Working Group,0,0.0,0.0,0.0,0.0,116,0.0,0,0.0,0.0,0.0
+Yin Chen,Yin Chen,4,; Members,9,30.0,3.0,2.005333333333333,0.0,286,1.0,36,1.0,30.0,0.10029106150517808
+Andrew Cox,Andrew Cox,1,; Members,0,0.0,0.0,0.0,0.0,117,0.0,0,0.0,0.0,0.0
+RDA/WDS Publishing Data Cost Recovery for Data Centres,RDA/WDS Publishing Data Cost Recovery for Data Centres,1,Working Group,0,0.0,0.0,0.0,0.0,118,0.0,0,0.0,0.0,0.0
+Howard Ratner,Howard Ratner,1,; Members,0,0.0,0.0,0.0,0.0,119,0.0,0,0.0,0.0,0.0
+Jaime Prilusky,Jaime Prilusky,1,; Members,0,0.0,0.0,0.0,0.0,120,0.0,0,0.0,0.0,0.0
+Kathleen Shearer,Kathleen Shearer,5,; Members,37,122.0,3.0,1.9173333333333333,28.10233551993315,440,0.6861861861861862,457,0.704918,122.0,0.22836725460305327
+Hans Pfeiffenberger,Hans Pfeiffenberger,4,; Members,21,64.0,3.0,1.9626666666666666,1.762178916131092,489,0.9047619047619048,190,0.90625,64.0,0.17462013935928716
+Anne Harvey,Anne Harvey,1,; Members,0,0.0,0.0,0.0,0.0,121,0.0,0,0.0,0.0,0.0
+Ryan Scherle,Ryan Scherle,3,; Members,1,3.0,3.0,2.042666666666667,0.0,489,0.0,0,0.0,3.0,0.013793555484353725
+Wim HUGO,Wim HUGO,1,; Members,0,0.0,0.0,0.0,0.0,122,0.0,0,0.0,0.0,0.0
+Alberto Corsin Jimenez,Alberto Corsin Jimenez,1,; Members,0,0.0,0.0,0.0,0.0,123,0.0,0,0.0,0.0,0.0
+Raymond Osborn,Raymond Osborn,1,; Members,0,0.0,0.0,0.0,0.0,124,0.0,0,0.0,0.0,0.0
+Johanna Schwarz,Johanna Schwarz,2,; Members,0,0.0,0.0,0.0,0.0,125,0.0,0,0.0,0.0,0.0
+Francis Strobbe,Francis Strobbe,10,; Members,73,290.0,3.0,1.8186666666666667,66.3945487849156,286,0.60882800608828,1600,0.6652299,290.0,0.46421853903801796
+Hylke Koers,Hylke Koers,5,; Members,22,94.0,3.0,1.9626666666666666,0.6279109538552263,489,0.9696969696969697,224,0.9782169,94.0,0.12786349054589022
+Libby Bishop,Libby Bishop,5,; Members,9,30.0,3.0,2.002666666666667,0.18175813866216345,440,0.9444444444444444,34,0.95000005,30.0,0.08523588708441504
+Arnold Rots,Arnold Rots,1,; Members,0,0.0,0.0,0.0,0.0,126,0.0,0,0.0,0.0,0.0
+Tony Mathys,Tony Mathys,1,; Members,0,0.0,0.0,0.0,0.0,127,0.0,0,0.0,0.0,0.0
+Francine Berman,Francine Berman,19,; Members,157,787.0,3.0,1.592,629.396095924708,286,0.31749142577168055,3888,0.45516893,787.0,0.7537616598496266
+Gregory Crane,Gregory Crane,1,; Members,0,0.0,0.0,0.0,0.0,128,0.0,0,0.0,0.0,0.0
+Leah McEwen,Leah McEwen,1,; Members,0,0.0,0.0,0.0,0.0,129,0.0,0,0.0,0.0,0.0
+Claus Weiland,Claus Weiland,1,; Members,0,0.0,0.0,0.0,0.0,130,0.0,0,0.0,0.0,0.0
+Jane Frazier,Jane Frazier,5,; Members,20,63.0,3.0,1.9733333333333334,0.34664841694253457,286,0.9578947368421052,182,0.95906436,63.0,0.1717598139837487
+Richard McClatchey,Richard McClatchey,3,; Members,4,12.0,3.0,2.018666666666667,0.0,286,1.0,6,1.0,12.0,0.0488826977659123
+Thierry Pauwels,Thierry Pauwels,1,; Members,0,0.0,0.0,0.0,0.0,131,0.0,0,0.0,0.0,0.0
+William Anderson,William Anderson,1,; Members,0,0.0,0.0,0.0,0.0,132,0.0,0,0.0,0.0,0.0
+Matthew Jones,Matthew Jones,11,; Members,77,336.0,3.0,1.8106666666666666,85.7843737855523,286,0.5868079289131921,1717,0.65531015,336.0,0.4739122000404235
+Jos Kleinjans,Jos Kleinjans,1,; Members,0,0.0,0.0,0.0,0.0,133,0.0,0,0.0,0.0,0.0
+Shivshankar Umashankar,Shivshankar Umashankar,1,; Members,0,0.0,0.0,0.0,0.0,134,0.0,0,0.0,0.0,0.0
+Luca Di Fiore,Luca Di Fiore,10,; Members,65,261.0,3.0,1.84,92.23174516481129,286,0.5701923076923077,1186,0.6370929,261.0,0.4015745469302512
+Thomas Severiens,Thomas Severiens,2,; Members,0,0.0,0.0,0.0,0.0,135,0.0,0,0.0,0.0,0.0
+Ari Jolma,Ari Jolma,1,; Members,0,0.0,0.0,0.0,0.0,136,0.0,0,0.0,0.0,0.0
+Suenje DT,Suenje DT,5,; Members,22,94.0,3.0,1.9626666666666666,0.6279109538552263,489,0.9696969696969697,224,0.9782169,94.0,0.12786349054589022
+El Bitar Ziad,El Bitar Ziad,1,; Members,0,0.0,0.0,0.0,0.0,137,0.0,0,0.0,0.0,0.0
+Georg Gartner,Georg Gartner,2,; Members,0,0.0,0.0,0.0,0.0,138,0.0,0,0.0,0.0,0.0
+Cristina Perez,Cristina Perez,1,; Members,0,0.0,0.0,0.0,0.0,139,0.0,0,0.0,0.0,0.0
+Jennifer Dewar,Jennifer Dewar,4,; Members,23,73.0,3.0,1.9626666666666666,2.748414289612994,440,0.849802371541502,215,0.85803235,73.0,0.15359016536265668
+Anna Milan,Anna Milan,2,; Members,0,0.0,0.0,0.0,0.0,140,0.0,0,0.0,0.0,0.0
+Solomon Mekonnen Tekle,Solomon Mekonnen Tekle,4,; Members,1,3.0,4.0,2.608,0.0,440,0.0,0,0.0,3.0,0.009118253678668812
+Steven Chong,Steven Chong,3,; Members,3,9.0,3.0,2.026666666666667,0.0,440,1.0,3,1.0,9.0,0.037858939778005536
+LETICIA LIZONDO,LETICIA LIZONDO,1,; Members,0,0.0,0.0,0.0,0.0,141,0.0,0,0.0,0.0,0.0
+Valerie BRASSE,Valerie BRASSE,1,; Members,0,0.0,0.0,0.0,0.0,142,0.0,0,0.0,0.0,0.0
+Laura Paglione,Laura Paglione,3,; Members,9,27.0,3.0,2.016,0.0,286,1.0,36,1.0,27.0,0.07929500211084445
+Jennifer Green,Jennifer Green,2,; Members,0,0.0,0.0,0.0,0.0,143,0.0,0,0.0,0.0,0.0
+Amy Hodge,Amy Hodge,8,; Members,49,177.0,3.0,1.8826666666666667,63.8032746007288,440,0.58078231292517,683,0.6268832,177.0,0.2868952693157716
+Ann Harding,Ann Harding,1,; Members,0,0.0,0.0,0.0,0.0,144,0.0,0,0.0,0.0,0.0
+Lesley Rickards,Lesley Rickards,2,; Members,0,0.0,0.0,0.0,0.0,145,0.0,0,0.0,0.0,0.0
+Piyushimita (Vonu) Thakuriah,Piyushimita (Vonu) Thakuriah,1,; Members,0,0.0,0.0,0.0,0.0,146,0.0,0,0.0,0.0,0.0
+Structural Biology IG,Structural Biology IG,1,Working Group,0,0.0,0.0,0.0,0.0,147,0.0,0,0.0,0.0,0.0
+Gregory Giuliani,Gregory Giuliani,1,; Members,0,0.0,0.0,0.0,0.0,148,0.0,0,0.0,0.0,0.0
+Geoffrey Fox,Geoffrey Fox,1,; Members,0,0.0,0.0,0.0,0.0,149,0.0,0,0.0,0.0,0.0
+Alison Labonte,Alison Labonte,1,; Members,0,0.0,0.0,0.0,0.0,150,0.0,0,0.0,0.0,0.0
+Leonore Reiser,Leonore Reiser,2,; Members,0,0.0,0.0,0.0,0.0,151,0.0,0,0.0,0.0,0.0
+David Arctur,David Arctur,4,; Members,12,37.0,3.0,1.9973333333333334,2.649738316267552,286,0.8181818181818182,54,0.8230958,37.0,0.08354044853492108
+Michael Lautenschlager,Michael Lautenschlager,1,; Members,0,0.0,0.0,0.0,0.0,152,0.0,0,0.0,0.0,0.0
+George Alter,George Alter,1,; Members,0,0.0,0.0,0.0,0.0,153,0.0,0,0.0,0.0,0.0
+Siri Jodha Khalsa,Siri Jodha Khalsa,3,; Members,5,15.0,3.0,2.021333333333333,0.0,286,1.0,10,1.0,15.0,0.04505098945290124
+Libraries for Research Data IG,Libraries for Research Data IG,1,Working Group,0,0.0,0.0,0.0,0.0,154,0.0,0,0.0,0.0,0.0
+Christopher Eaker,Christopher Eaker,1,; Members,0,0.0,0.0,0.0,0.0,155,0.0,0,0.0,0.0,0.0
+Brian Matthews,Brian Matthews,4,; Members,21,66.0,3.0,1.9626666666666666,0.2711111111111111,286,0.9857142857142858,207,0.9863636,66.0,0.19685247024792735
+Laurence Horton,Laurence Horton,2,; Members,0,0.0,0.0,0.0,0.0,156,0.0,0,0.0,0.0,0.0
+Ben Evans,Ben Evans,6,; Members,18,65.0,3.0,1.9786666666666666,376.0340077785574,489,0.7777777777777778,119,0.79909503,65.0,0.1418906851578418
+Roland Koppe,Roland Koppe,2,; Members,0,0.0,0.0,0.0,0.0,157,0.0,0,0.0,0.0,0.0
+Bert Huizing,Bert Huizing,2,; Members,0,0.0,0.0,0.0,0.0,158,0.0,0,0.0,0.0,0.0
+Gabrielle Berlinger,Gabrielle Berlinger,1,; Members,0,0.0,0.0,0.0,0.0,159,0.0,0,0.0,0.0,0.0
+Rudolf Mayer,Rudolf Mayer,2,; Members,0,0.0,0.0,0.0,0.0,160,0.0,0,0.0,0.0,0.0
+Nancy Faget,Nancy Faget,3,; Members,6,18.0,3.0,2.024,0.0,440,1.0,15,1.0,18.0,0.039131533760124355
+Janez Å tebe,Janez Å tebe,2,; Members,0,0.0,0.0,0.0,0.0,161,0.0,0,0.0,0.0,0.0
+Larry Lannom,Larry Lannom,11,; Members,83,357.0,3.0,1.7893333333333334,142.49325532235954,286,0.5301204819277109,1804,0.6011136,357.0,0.4914250114630984
+Karl Gumerlock,Karl Gumerlock,1,; Members,0,0.0,0.0,0.0,0.0,162,0.0,0,0.0,0.0,0.0
+Isuru Suriarachchi,Isuru Suriarachchi,1,; Members,0,0.0,0.0,0.0,0.0,163,0.0,0,0.0,0.0,0.0
+Julia Collins,Julia Collins,10,; Members,99,404.0,3.0,1.7466666666666666,180.67485784113384,440,0.5083487940630798,2466,0.568625,404.0,0.5793478165895465
+Eloy Rodrigues,Eloy Rodrigues,1,; Members,0,0.0,0.0,0.0,0.0,164,0.0,0,0.0,0.0,0.0
+Joe HourclÃ©,Joe HourclÃ©,2,; Members,0,0.0,0.0,0.0,0.0,165,0.0,0,0.0,0.0,0.0
+Stephanie Wright,Stephanie Wright,4,; Members,19,59.0,3.0,1.968,1.456233769813491,440,0.8830409356725146,151,0.8870056,59.0,0.13572209447965494
+Doris Ressmann,Doris Ressmann,1,; Members,0,0.0,0.0,0.0,0.0,166,0.0,0,0.0,0.0,0.0
+J. Stephen Downie,J. Stephen Downie,1,; Members,0,0.0,0.0,0.0,0.0,167,0.0,0,0.0,0.0,0.0
+Heinz Pampel,Heinz Pampel,1,; Members,0,0.0,0.0,0.0,0.0,168,0.0,0,0.0,0.0,0.0
+Bogdan Voicu,Bogdan Voicu,1,; Members,0,0.0,0.0,0.0,0.0,169,0.0,0,0.0,0.0,0.0
+Stefan Kramer,Stefan Kramer,3,; Members,4,12.0,4.0,2.8613333333333335,0.0,440,1.0,6,1.0,12.0,0.0067911576099095785
+Christian SchÃ_fer-Neth,Christian SchÃ_fer-Neth,4,; Members,11,37.0,3.0,2.005333333333333,1.0833333333333333,763,0.8727272727272727,48,0.88648653,37.0,0.057307086138025265
+Quentin Groom,Quentin Groom,1,; Members,0,0.0,0.0,0.0,0.0,170,0.0,0,0.0,0.0,0.0
+Christina Flann,Christina Flann,1,; Members,0,0.0,0.0,0.0,0.0,171,0.0,0,0.0,0.0,0.0
+Florian Wetzel,Florian Wetzel,1,; Members,0,0.0,0.0,0.0,0.0,172,0.0,0,0.0,0.0,0.0
+Mohan Ramamurthy,Mohan Ramamurthy,4,; Members,5,16.0,3.0,2.032,0.08893280632411067,489,0.8,8,0.8125,16.0,0.030881233465637266
+Michael Ball,Michael Ball,3,; Members,2,6.0,3.0,2.029333333333333,0.0,489,1.0,1,1.0,6.0,0.026905736959096368
+Erwin L Roggen,Erwin L Roggen,1,; Members,0,0.0,0.0,0.0,0.0,173,0.0,0,0.0,0.0,0.0
+Kevin Dyke,Kevin Dyke,1,; Members,0,0.0,0.0,0.0,0.0,174,0.0,0,0.0,0.0,0.0
+Kerstin Lehnert,Kerstin Lehnert,9,; Members,60,232.0,3.0,1.8506666666666667,88.92929312338971,489,0.5576271186440678,987,0.5895675,232.0,0.34530283816410445
+Irene Nooren,Irene Nooren,1,; Members,0,0.0,0.0,0.0,0.0,175,0.0,0,0.0,0.0,0.0
+Rachel Proudfoot,Rachel Proudfoot,1,; Members,0,0.0,0.0,0.0,0.0,176,0.0,0,0.0,0.0,0.0
+Robin Rice,Robin Rice,2,; Members,0,0.0,0.0,0.0,0.0,177,0.0,0,0.0,0.0,0.0
+John-Paul Navarro,John-Paul Navarro,3,; Members,17,51.0,3.0,1.984,0.0,286,1.0,136,1.0,51.0,0.15892511357641828
+Live Kvale,Live Kvale,1,; Members,0,0.0,0.0,0.0,0.0,178,0.0,0,0.0,0.0,0.0
+Marie-Christine Jacquemot-Perbal,Marie-Christine Jacquemot-Perbal,6,; Members,66,235.0,3.0,1.8426666666666667,56.84504364703411,440,0.661072261072261,1418,0.69846153,235.0,0.4291744165101168
+Christine Malinowski,Christine Malinowski,4,; Members,12,39.0,3.0,2.0,0.2298756798756799,440,0.9242424242424242,61,0.9300699,39.0,0.10140812143332387
+Domain Repositories Interest Group,Domain Repositories Interest Group,1,Working Group,0,0.0,0.0,0.0,0.0,179,0.0,0,0.0,0.0,0.0
+Susan Stucky,Susan Stucky,1,; Members,0,0.0,0.0,0.0,0.0,180,0.0,0,0.0,0.0,0.0
+Jose M Paez,Jose M Paez,1,; Members,0,0.0,0.0,0.0,0.0,181,0.0,0,0.0,0.0,0.0
+Peter Doorn,Peter Doorn,1,; Members,0,0.0,0.0,0.0,0.0,182,0.0,0,0.0,0.0,0.0
+Simona AbbÃ ,Simona AbbÃ ,1,; Members,0,0.0,0.0,0.0,0.0,183,0.0,0,0.0,0.0,0.0
+Ted Habermann,Ted Habermann,1,; Members,0,0.0,0.0,0.0,0.0,184,0.0,0,0.0,0.0,0.0
+Catherine Doldirina,Catherine Doldirina,1,; Members,0,0.0,0.0,0.0,0.0,185,0.0,0,0.0,0.0,0.0
+Data Foundations and Terminology IG,Data Foundations and Terminology IG,1,Working Group,0,0.0,0.0,0.0,0.0,186,0.0,0,0.0,0.0,0.0
+brett johnson,brett johnson,3,; Members,3,9.0,3.0,2.1706666666666665,0.0,697,1.0,3,1.0,9.0,0.022610915553943626
+Ville Tenhunen,Ville Tenhunen,8,; Members,42,162.0,3.0,1.8933333333333333,23.12144427247376,440,0.7015098722415796,604,0.7387835,162.0,0.2860029683326627
+Juliane Schneider,Juliane Schneider,2,; Members,0,0.0,0.0,0.0,0.0,187,0.0,0,0.0,0.0,0.0
+Philipp Conzett,Philipp Conzett,1,; Members,0,0.0,0.0,0.0,0.0,188,0.0,0,0.0,0.0,0.0
+Chris Phethean,Chris Phethean,1,; Members,0,0.0,0.0,0.0,0.0,189,0.0,0,0.0,0.0,0.0
+Thorny Staples,Thorny Staples,1,; Members,0,0.0,0.0,0.0,0.0,190,0.0,0,0.0,0.0,0.0
+Dan Price,Dan Price,1,; Members,0,0.0,0.0,0.0,0.0,191,0.0,0,0.0,0.0,0.0
+Vocabulary Services Interest Group,Vocabulary Services Interest Group,1,Working Group,0,0.0,0.0,0.0,0.0,192,0.0,0,0.0,0.0,0.0
+Alessandro Sarretta,Alessandro Sarretta,4,; Members,12,37.0,3.0,2.0,0.1684411684411684,489,0.9393939393939394,62,0.94103193,37.0,0.09807047935934166
+Rolando Milian,Rolando Milian,4,; Members,10,33.0,3.0,2.002666666666667,0.0,697,1.0,45,1.0,33.0,0.09590639160112992
+Robert McDonald,Robert McDonald,3,; Members,3,9.0,3.0,2.026666666666667,0.0,489,1.0,3,1.0,9.0,0.036425197277791546
+Paula EL KHOURY,Paula EL KHOURY,2,; Members,0,0.0,0.0,0.0,0.0,193,0.0,0,0.0,0.0,0.0
+Steven Lynden,Steven Lynden,2,; Members,0,0.0,0.0,0.0,0.0,194,0.0,0,0.0,0.0,0.0
+AgnÃ¨s ANSARI,AgnÃ¨s ANSARI,2,; Members,0,0.0,0.0,0.0,0.0,195,0.0,0,0.0,0.0,0.0
+Gary Berg-Cross,Gary Berg-Cross,11,; Members,67,290.0,3.0,1.8426666666666667,109.10181950799002,286,0.5712347354138398,1263,0.63798326,290.0,0.4094888666679196
+John Faundeen,John Faundeen,1,; Members,0,0.0,0.0,0.0,0.0,196,0.0,0,0.0,0.0,0.0
+Erik Radio,Erik Radio,2,; Members,0,0.0,0.0,0.0,0.0,197,0.0,0,0.0,0.0,0.0
+Brigitte Joerg,Brigitte Joerg,9,; Members,99,412.0,3.0,1.7413333333333334,151.12287053995544,697,0.5044320758606473,2447,0.5868585,412.0,0.5760064301851422
+Christian Rohrer,Christian Rohrer,2,; Members,0,0.0,0.0,0.0,0.0,198,0.0,0,0.0,0.0,0.0
+AntÃ_nio Branco,AntÃ_nio Branco,1,; Members,0,0.0,0.0,0.0,0.0,199,0.0,0,0.0,0.0,0.0
+Sergio Serra,Sergio Serra,4,; Members,4,13.0,3.0,2.024,0.0,489,1.0,6,1.0,13.0,0.04118318634825728
+Sarah Pickle,Sarah Pickle,2,; Members,0,0.0,0.0,0.0,0.0,200,0.0,0,0.0,0.0,0.0
+Paolo Mazzetti,Paolo Mazzetti,2,; Members,0,0.0,0.0,0.0,0.0,201,0.0,0,0.0,0.0,0.0
+Naoyuki Tsunematsu,Naoyuki Tsunematsu,3,; Members,6,18.0,3.0,2.024,0.0,440,1.0,15,1.0,18.0,0.038826264540093115
+Jon Shuker,Jon Shuker,1,; Members,0,0.0,0.0,0.0,0.0,202,0.0,0,0.0,0.0,0.0
+Matthew Viljoen,Matthew Viljoen,5,; Members,34,120.0,3.0,1.9333333333333333,1.4602564238701738,286,0.9162210338680927,514,0.9277778,120.0,0.2701093156338529
+Luis Felipe Rosado Murillo,Luis Felipe Rosado Murillo,1,; Members,0,0.0,0.0,0.0,0.0,203,0.0,0,0.0,0.0,0.0
+Rebecca Koskela,Rebecca Koskela,12,; Members,96,425.0,3.0,1.7626666666666666,275.9258980081604,697,0.49583333333333335,2261,0.56772757,425.0,0.5516411145731988
+John Helly,John Helly,3,; Members,17,51.0,3.0,1.992,0.0,489,1.0,136,1.0,51.0,0.0808883519392951
+Yunpeng Cui,Yunpeng Cui,2,; Members,0,0.0,0.0,0.0,0.0,204,0.0,0,0.0,0.0,0.0
+J. Y.,J. Y.,4,; Members,10,33.0,3.0,2.008,0.35119047619047616,763,0.9333333333333333,42,0.93939394,33.0,0.06984638074535393
+Peggy Lindner,Peggy Lindner,1,; Members,0,0.0,0.0,0.0,0.0,205,0.0,0,0.0,0.0,0.0
+Alan Williams,Alan Williams,1,; Members,0,0.0,0.0,0.0,0.0,206,0.0,0,0.0,0.0,0.0
+Francesco De Carlo,Francesco De Carlo,1,; Members,0,0.0,0.0,0.0,0.0,207,0.0,0,0.0,0.0,0.0
+Tony Fast,Tony Fast,3,; Members,8,24.0,3.0,2.008,0.0,286,1.0,28,1.0,24.0,0.08266479329683457
+Monika Solanki,Monika Solanki,1,; Members,0,0.0,0.0,0.0,0.0,208,0.0,0,0.0,0.0,0.0
+RaphaÃ«l Flores,RaphaÃ«l Flores,1,; Members,0,0.0,0.0,0.0,0.0,209,0.0,0,0.0,0.0,0.0
+Manuel Loyola,Manuel Loyola,1,; Members,0,0.0,0.0,0.0,0.0,210,0.0,0,0.0,0.0,0.0
+Tiiu Tarkpea,Tiiu Tarkpea,1,; Members,0,0.0,0.0,0.0,0.0,211,0.0,0,0.0,0.0,0.0
+HervÃ© L'Hours,HervÃ© L'Hours,22,; Members,167,788.0,2.0,1.5546666666666666,1702.1833755170849,489,0.25755717480701246,3570,0.35265428,788.0,0.7188714683518098
+Claudio Atzori,Claudio Atzori,3,; Members,10,30.0,3.0,2.008,0.0,286,1.0,45,1.0,30.0,0.08758354973174491
+Mikael Borg,Mikael Borg,2,; Members,0,0.0,0.0,0.0,0.0,212,0.0,0,0.0,0.0,0.0
+Reid Otsuji,Reid Otsuji,2,; Members,0,0.0,0.0,0.0,0.0,213,0.0,0,0.0,0.0,0.0
+Community Capability Model IG,Community Capability Model IG,1,Working Group,0,0.0,0.0,0.0,0.0,214,0.0,0,0.0,0.0,0.0
+Erick Peirson,Erick Peirson,1,; Members,0,0.0,0.0,0.0,0.0,215,0.0,0,0.0,0.0,0.0
+Eva Huala,Eva Huala,1,; Members,0,0.0,0.0,0.0,0.0,216,0.0,0,0.0,0.0,0.0
+Laurel Cooper,Laurel Cooper,1,; Members,0,0.0,0.0,0.0,0.0,217,0.0,0,0.0,0.0,0.0
+Robert Lovas,Robert Lovas,2,; Members,0,0.0,0.0,0.0,0.0,218,0.0,0,0.0,0.0,0.0
+Gopal Rao,Gopal Rao,1,; Members,0,0.0,0.0,0.0,0.0,219,0.0,0,0.0,0.0,0.0
+John Henry Scott,John Henry Scott,4,; Members,10,31.0,3.0,2.002666666666667,0.14358974358974358,286,0.9555555555555556,43,0.9569892,31.0,0.0754064216964468
+Thomas Blaschke,Thomas Blaschke,1,; Members,0,0.0,0.0,0.0,0.0,220,0.0,0,0.0,0.0,0.0
+Nicky Nicolson,Nicky Nicolson,1,; Members,0,0.0,0.0,0.0,0.0,221,0.0,0,0.0,0.0,0.0
+Bridget Almas,Bridget Almas,7,; Members,24,86.0,3.0,1.96,7.59526425528095,286,0.8043478260869565,222,0.82355917,86.0,0.18230099262207142
+Therese Skagen,Therese Skagen,1,; Members,0,0.0,0.0,0.0,0.0,222,0.0,0,0.0,0.0,0.0
+Birgitta KÃ¶nig-Ries,Birgitta KÃ¶nig-Ries,1,; Members,0,0.0,0.0,0.0,0.0,223,0.0,0,0.0,0.0,0.0
+Sandra Collins,Sandra Collins,4,; Members,24,82.0,3.0,1.96,0.030303030303030304,286,0.9963768115942029,275,0.9968187,82.0,0.20978841211239624
+MariÃ«tte van Selm,MariÃ«tte van Selm,3,; Members,14,42.0,3.0,1.992,0.0,440,1.0,91,1.0,42.0,0.08784466192017133
+Marion Wittenberg,Marion Wittenberg,2,; Members,0,0.0,0.0,0.0,0.0,224,0.0,0,0.0,0.0,0.0
+Lukas Hejtmanek,Lukas Hejtmanek,1,; Members,0,0.0,0.0,0.0,0.0,225,0.0,0,0.0,0.0,0.0
+Steven Hartman,Steven Hartman,1,; Members,0,0.0,0.0,0.0,0.0,226,0.0,0,0.0,0.0,0.0
+Steve Brewer,Steve Brewer,4,; Members,9,29.0,3.0,2.005333333333333,0.0,440,1.0,36,1.0,29.0,0.06704264827864552
+Siddeswara Guru,Siddeswara Guru,11,; Members,79,319.0,3.0,1.8026666666666666,117.72892458279516,286,0.5702693930542032,1757,0.6337513,319.0,0.4880187092423496
+Ruth Duerr,Ruth Duerr,7,; Members,43,166.0,3.0,1.9066666666666667,8.697478617339188,286,0.8073089700996677,729,0.8357717,166.0,0.3158312317920327
+Stephanie Holmgren,Stephanie Holmgren,1,; Members,0,0.0,0.0,0.0,0.0,227,0.0,0,0.0,0.0,0.0
+Jennie Larkin,Jennie Larkin,1,; Members,0,0.0,0.0,0.0,0.0,228,0.0,0,0.0,0.0,0.0
+Elizabeth Krznarich,Elizabeth Krznarich,3,; Members,9,27.0,3.0,2.010666666666667,0.0,440,1.0,36,1.0,27.0,0.07003830773126905
+Siobhann McCafferty,Siobhann McCafferty,4,; Members,17,53.0,3.0,1.9786666666666666,0.0,489,1.0,136,1.0,53.0,0.1599645451906826
+Eleni Castro,Eleni Castro,1,; Members,0,0.0,0.0,0.0,0.0,229,0.0,0,0.0,0.0,0.0
+Sebastian Palucha,Sebastian Palucha,7,; Members,55,189.0,3.0,1.864,27.38893249103629,440,0.6808080808080809,1011,0.7096806,189.0,0.37421255239853457
+Nancy Diana GÃ_mez,Nancy Diana GÃ_mez,1,; Members,0,0.0,0.0,0.0,0.0,230,0.0,0,0.0,0.0,0.0
+Donatella Castelli,Donatella Castelli,5,; Members,24,78.0,3.0,1.9626666666666666,9.276935779105994,440,0.6847826086956522,189,0.7079153,78.0,0.15103991145896906
+Peggy Schaeffer,Peggy Schaeffer,1,; Members,0,0.0,0.0,0.0,0.0,231,0.0,0,0.0,0.0,0.0
+Haralambos Marmanis,Haralambos Marmanis,7,; Members,60,220.0,3.0,1.856,50.91010511644274,489,0.6169491525423729,1092,0.6455316,220.0,0.3736836755469606
+Scott Carlson,Scott Carlson,2,; Members,0,0.0,0.0,0.0,0.0,232,0.0,0,0.0,0.0,0.0
+Alan Blatecky,Alan Blatecky,1,; Members,0,0.0,0.0,0.0,0.0,233,0.0,0,0.0,0.0,0.0
+Stein Tronstad,Stein Tronstad,2,; Members,0,0.0,0.0,0.0,0.0,234,0.0,0,0.0,0.0,0.0
+standards & databases in life sciences,standards & databases in life sciences,1,Working Group,0,0.0,0.0,0.0,0.0,235,0.0,0,0.0,0.0,0.0
+Dimitra Mavraki,Dimitra Mavraki,1,; Members,0,0.0,0.0,0.0,0.0,236,0.0,0,0.0,0.0,0.0
+Daniela PÃ¶hn,Daniela PÃ¶hn,1,; Members,0,0.0,0.0,0.0,0.0,237,0.0,0,0.0,0.0,0.0
+Amy Nurnberger,Amy Nurnberger,9,; Members,105,400.0,3.0,1.7253333333333334,313.6271270347775,440,0.4104395604395604,2241,0.47088942,400.0,0.546210915140438
+Charles (Chuck) Humphrey,Charles (Chuck) Humphrey,2,; Members,0,0.0,0.0,0.0,0.0,238,0.0,0,0.0,0.0,0.0
+Henry Luetcke,Henry Luetcke,2,; Members,0,0.0,0.0,0.0,0.0,239,0.0,0,0.0,0.0,0.0
+Rafael C Jimenez,Rafael C Jimenez,4,; Members,7,22.0,3.0,2.010666666666667,0.06797235023041474,697,0.9047619047619048,19,0.90909094,22.0,0.06339276446134234
+Mirjam van Daalen,Mirjam van Daalen,2,; Members,0,0.0,0.0,0.0,0.0,240,0.0,0,0.0,0.0,0.0
+Kalpana Shankar,Kalpana Shankar,1,; Members,0,0.0,0.0,0.0,0.0,241,0.0,0,0.0,0.0,0.0
+Wo Chang,Wo Chang,3,; Members,9,27.0,3.0,2.005333333333333,0.0,286,1.0,36,1.0,27.0,0.09460539819378448
+Toshihiro Ashino,Toshihiro Ashino,4,; Members,14,44.0,3.0,2.0,4.833333333333334,489,0.8461538461538461,77,0.85314685,44.0,0.11554933798804878
+Fabio Gennai,Fabio Gennai,3,; Members,10,30.0,3.0,2.008,0.0,286,1.0,45,1.0,30.0,0.08758354973174491
+Quentin Reul,Quentin Reul,4,; Members,40,134.0,3.0,1.9173333333333333,2.852594175243007,697,0.9038461538461539,705,0.91389203,134.0,0.3105015348396846
+Christina Elsenga,Christina Elsenga,4,; Members,10,34.0,3.0,2.0,0.0,489,1.0,45,1.0,34.0,0.07923297623551122
+Metadata IG,Metadata IG,1,Working Group,0,0.0,0.0,0.0,0.0,242,0.0,0,0.0,0.0,0.0
+Kathleen Fontaine,Kathleen Fontaine,4,; Members,0,0.0,0.0,0.0,0.0,243,0.0,0,0.0,0.0,0.0
+David Giaretta,David Giaretta,3,; Members,5,15.0,3.0,2.032,0.0,489,1.0,10,1.0,15.0,0.033128318684678
+Andreas Rauber,Andreas Rauber,8,; Members,69,268.0,3.0,1.8213333333333332,362.1773113408798,489,0.6265984654731458,1470,0.67120284,268.0,0.4405598482979736
+Peter Baumann,Peter Baumann,4,; Members,12,38.0,3.0,2.002666666666667,0.21335055643879172,286,0.9242424242424242,61,0.92822963,38.0,0.10376314682961764
+Dana Ernst,Dana Ernst,4,; Members,31,97.0,3.0,1.944,2.9248974326485104,697,0.8989247311827957,418,0.90309274,97.0,0.23764872473790022
+Repository Platforms for Research Data,Repository Platforms for Research Data,1,Working Group,0,0.0,0.0,0.0,0.0,244,0.0,0,0.0,0.0,0.0
+Mary Vardigan,Mary Vardigan,4,; Members,13,44.0,3.0,1.9973333333333334,0.0,489,1.0,78,1.0,44.0,0.08842990175891834
+Andrea Westerinen,Andrea Westerinen,4,; Members,18,58.0,3.0,1.984,0.23930511911106211,286,0.9673202614379085,148,0.96957403,58.0,0.1617384126584559
+Andy Turner,Andy Turner,4,; Members,8,27.0,3.0,2.010666666666667,0.7366946778711485,489,0.8571428571428571,24,0.8730158,27.0,0.06685191788431252
+Ward Appeltans,Ward Appeltans,5,; Members,18,59.0,3.0,1.976,0.5758241642992077,286,0.934640522875817,143,0.94017947,59.0,0.16076836764006616
+Andrew Johnson,Andrew Johnson,1,; Members,0,0.0,0.0,0.0,0.0,245,0.0,0,0.0,0.0,0.0
+Fiona Murphy,Fiona Murphy,2,; Members,0,0.0,0.0,0.0,0.0,246,0.0,0,0.0,0.0,0.0
+RDA/CODATA Materials Data,RDA/CODATA Materials Data,1,Working Group,0,0.0,0.0,0.0,0.0,247,0.0,0,0.0,0.0,0.0
+Herbert Gruttemeier,Herbert Gruttemeier,4,; Members,25,80.0,3.0,1.9573333333333334,1.9894847964175886,489,0.88,264,0.88750005,80.0,0.19361153525148428
+Ingemar Gunnarsson,Ingemar Gunnarsson,1,; Members,0,0.0,0.0,0.0,0.0,248,0.0,0,0.0,0.0,0.0
+Heinz Josef Weyer,Heinz Josef Weyer,1,; Members,0,0.0,0.0,0.0,0.0,249,0.0,0,0.0,0.0,0.0
+Rebecca Grant,Rebecca Grant,2,; Members,0,0.0,0.0,0.0,0.0,250,0.0,0,0.0,0.0,0.0
+Reproducibility IG,Reproducibility IG,1,Working Group,0,0.0,0.0,0.0,0.0,251,0.0,0,0.0,0.0,0.0
+Natasha Bulatovic,Natasha Bulatovic,4,; Members,16,51.0,3.0,1.9866666666666666,0.0,286,1.0,120,1.0,51.0,0.15544136864168345
+Rick Johnson,Rick Johnson,2,; Members,0,0.0,0.0,0.0,0.0,252,0.0,0,0.0,0.0,0.0
+Simon Berriman,Simon Berriman,1,; Members,0,0.0,0.0,0.0,0.0,253,0.0,0,0.0,0.0,0.0
+Prodromos Tsiavos,Prodromos Tsiavos,1,; Members,0,0.0,0.0,0.0,0.0,254,0.0,0,0.0,0.0,0.0
+Libbie Stephenson,Libbie Stephenson,10,; Members,83,330.0,3.0,1.784,175.2925517469701,489,0.5301204819277109,1804,0.58196604,330.0,0.4938489443196187
+Stefan Paetow,Stefan Paetow,1,; Members,0,0.0,0.0,0.0,0.0,255,0.0,0,0.0,0.0,0.0
+Brokering IG,Brokering IG,1,Working Group,0,0.0,0.0,0.0,0.0,256,0.0,0,0.0,0.0,0.0
+Francoise Pearlman,Francoise Pearlman,2,; Members,0,0.0,0.0,0.0,0.0,257,0.0,0,0.0,0.0,0.0
+Jeroen Rombouts,Jeroen Rombouts,1,; Members,0,0.0,0.0,0.0,0.0,258,0.0,0,0.0,0.0,0.0
+Emanuele Bellini,Emanuele Bellini,1,; Members,0,0.0,0.0,0.0,0.0,259,0.0,0,0.0,0.0,0.0
+Vincent Breton,Vincent Breton,1,; Members,0,0.0,0.0,0.0,0.0,260,0.0,0,0.0,0.0,0.0
+Julia Bullard,Julia Bullard,1,; Members,0,0.0,0.0,0.0,0.0,261,0.0,0,0.0,0.0,0.0
+Tim Clancy,Tim Clancy,2,; Members,0,0.0,0.0,0.0,0.0,262,0.0,0,0.0,0.0,0.0
+Cheryl Thompson,Cheryl Thompson,5,; Members,30,105.0,3.0,1.944,11.95889727767655,440,0.7241379310344828,315,0.7513957,105.0,0.17659906161053449
+Elke Greifeneder,Elke Greifeneder,1,; Members,0,0.0,0.0,0.0,0.0,263,0.0,0,0.0,0.0,0.0
+Michael Diepenbroek,Michael Diepenbroek,9,; Members,42,183.0,3.0,1.904,38.191432652448604,489,0.6666666666666666,574,0.70984936,183.0,0.2553614776572255
+Mohammed Abdur Razzak,Mohammed Abdur Razzak,1,; Members,0,0.0,0.0,0.0,0.0,264,0.0,0,0.0,0.0,0.0
+Eva MÃ©ndez,Eva MÃ©ndez,1,; Members,0,0.0,0.0,0.0,0.0,265,0.0,0,0.0,0.0,0.0
+Petr Benedikt,Petr Benedikt,4,; Members,3,9.0,3.0,2.176,0.5,286,0.6666666666666666,2,0.6666667,9.0,0.016898254875935464
+Anne Hersey,Anne Hersey,1,; Members,0,0.0,0.0,0.0,0.0,266,0.0,0,0.0,0.0,0.0
+Liz Lyon,Liz Lyon,1,; Members,0,0.0,0.0,0.0,0.0,267,0.0,0,0.0,0.0,0.0
+Serena Coetzee,Serena Coetzee,1,; Members,0,0.0,0.0,0.0,0.0,268,0.0,0,0.0,0.0,0.0
+Lars G. Svensson,Lars G. Svensson,4,; Members,16,51.0,3.0,1.9866666666666666,0.0,286,1.0,120,1.0,51.0,0.1650914677032255
+Alin Charriere,Alin Charriere,1,; Members,0,0.0,0.0,0.0,0.0,269,0.0,0,0.0,0.0,0.0
+Didier Richard,Didier Richard,1,; Members,0,0.0,0.0,0.0,0.0,270,0.0,0,0.0,0.0,0.0
+Lorenzo Bigagli,Lorenzo Bigagli,1,; Members,0,0.0,0.0,0.0,0.0,271,0.0,0,0.0,0.0,0.0
+Mark Fox,Mark Fox,1,; Members,0,0.0,0.0,0.0,0.0,272,0.0,0,0.0,0.0,0.0
+Chad Trabant,Chad Trabant,1,; Members,0,0.0,0.0,0.0,0.0,273,0.0,0,0.0,0.0,0.0
+Michael Toney,Michael Toney,1,; Members,0,0.0,0.0,0.0,0.0,274,0.0,0,0.0,0.0,0.0
+Sonia Stefanizzi,Sonia Stefanizzi,2,; Members,0,0.0,0.0,0.0,0.0,275,0.0,0,0.0,0.0,0.0
+Dominic Difranzo,Dominic Difranzo,1,; Members,0,0.0,0.0,0.0,0.0,276,0.0,0,0.0,0.0,0.0
+Zaven Akopov,Zaven Akopov,4,; Members,11,36.0,3.0,2.002666666666667,0.038461538461538464,440,0.9818181818181818,54,0.98333335,36.0,0.09669927854670077
+Lauren Intagliata,Lauren Intagliata,4,; Members,20,61.0,3.0,1.9706666666666666,0.0,489,1.0,190,1.0,61.0,0.18675683510540206
+The BioSharing Registry: connecting data policies,The BioSharing Registry: connecting data policies,1,Working Group,0,0.0,0.0,0.0,0.0,277,0.0,0,0.0,0.0,0.0
+Kimberly Tryka,Kimberly Tryka,5,; Members,21,70.0,3.0,1.968,0.6152984058844551,489,0.9428571428571428,198,0.94857144,70.0,0.17331562292810693
+Elizabeth Bradshaw,Elizabeth Bradshaw,1,; Members,0,0.0,0.0,0.0,0.0,278,0.0,0,0.0,0.0,0.0
+Maurice Levie,Maurice Levie,2,; Members,0,0.0,0.0,0.0,0.0,279,0.0,0,0.0,0.0,0.0
+Rudolf Husar,Rudolf Husar,2,; Members,0,0.0,0.0,0.0,0.0,280,0.0,0,0.0,0.0,0.0
+Pierre LARMANDE,Pierre LARMANDE,4,; Members,6,18.0,3.0,2.018666666666667,5.385714285714286,79,0.6,9,0.6,18.0,0.04152240610451466
+Alistair Mills,Alistair Mills,1,; Members,0,0.0,0.0,0.0,0.0,281,0.0,0,0.0,0.0,0.0
+Tommi NyrÃ¶nen,Tommi NyrÃ¶nen,1,; Members,0,0.0,0.0,0.0,0.0,282,0.0,0,0.0,0.0,0.0
+Scott Brander,Scott Brander,3,; Members,12,36.0,3.0,1.9973333333333334,0.0,440,1.0,66,1.0,36.0,0.10930951296460707
+Stephen Edwards,Stephen Edwards,1,; Members,0,0.0,0.0,0.0,0.0,283,0.0,0,0.0,0.0,0.0
+Antonie Haas,Antonie Haas,2,; Members,0,0.0,0.0,0.0,0.0,284,0.0,0,0.0,0.0,0.0
+Leif Laaksonen,Leif Laaksonen,19,; Members,157,787.0,3.0,1.592,629.396095924708,286,0.31749142577168055,3888,0.45516893,787.0,0.7537616598496268
+Paolo Missier,Paolo Missier,1,; Members,0,0.0,0.0,0.0,0.0,285,0.0,0,0.0,0.0,0.0
+Herman Stehouwer,Herman Stehouwer,41,; Members,306,1674.0,2.0,1.184,10979.311070183658,286,0.11903996571306118,5555,0.21526332,1674.0,0.965087766496824
+Dilworth Parkinson,Dilworth Parkinson,1,; Members,0,0.0,0.0,0.0,0.0,287,0.0,0,0.0,0.0,0.0
+Jane Mandelbaum,Jane Mandelbaum,1,; Members,0,0.0,0.0,0.0,0.0,288,0.0,0,0.0,0.0,0.0
+Dong Joon Lee,Dong Joon Lee,8,; Members,72,286.0,3.0,1.8186666666666667,85.7160687503948,286,0.6091549295774648,1557,0.6617749,286.0,0.45780750007030896
+Susan Braxton,Susan Braxton,7,; Members,54,197.0,3.0,1.8693333333333333,22.879545159375592,489,0.7309573724668065,1046,0.7631453,197.0,0.37815916468240296
+Erich Seamon,Erich Seamon,3,; Members,3,9.0,3.0,2.037333333333333,0.0,440,1.0,3,1.0,9.0,0.021574329194988345
+Gabino Sanchez-Perez,Gabino Sanchez-Perez,1,; Members,0,0.0,0.0,0.0,0.0,289,0.0,0,0.0,0.0,0.0
+Dany Vandromme,Dany Vandromme,3,; Members,9,27.0,3.0,2.016,0.0,286,1.0,36,1.0,27.0,0.07394274595195949
+Peter Wittenburg,Peter Wittenburg,4,; Members,19,65.0,3.0,1.9733333333333334,0.22734069473199903,286,0.9649122807017544,165,0.9692308,65.0,0.14892534063085763
+Kristin Antelman,Kristin Antelman,1,; Members,0,0.0,0.0,0.0,0.0,290,0.0,0,0.0,0.0,0.0
+Claudio Cacciari,Claudio Cacciari,1,; Members,0,0.0,0.0,0.0,0.0,291,0.0,0,0.0,0.0,0.0
+Metadata Standards Directory Working Group,Metadata Standards Directory Working Group,1,Working Group,0,0.0,0.0,0.0,0.0,292,0.0,0,0.0,0.0,0.0
+Wolfram Horstmann,Wolfram Horstmann,3,; Members,4,12.0,3.0,2.024,0.0,286,1.0,6,1.0,12.0,0.04814166743437443
+Daniel Mallmann,Daniel Mallmann,8,; Members,33,119.0,3.0,1.9333333333333333,8.120326800064625,440,0.7859848484848485,415,0.809874,119.0,0.2429371885712832
+David Dubin,David Dubin,3,; Members,1,3.0,4.0,2.458666666666667,0.0,286,0.0,0,0.0,3.0,0.011023757987906785
+Cord Wiljes,Cord Wiljes,7,; Members,47,169.0,3.0,1.8933333333333333,22.568605827442106,440,0.6882516188714154,744,0.72047853,169.0,0.30595483760891035
+Elizabeth Newbold,Elizabeth Newbold,2,; Members,0,0.0,0.0,0.0,0.0,293,0.0,0,0.0,0.0,0.0
+Barbara Entwisle,Barbara Entwisle,1,; Members,0,0.0,0.0,0.0,0.0,294,0.0,0,0.0,0.0,0.0
+Engagement IG,Engagement IG,1,Working Group,0,0.0,0.0,0.0,0.0,295,0.0,0,0.0,0.0,0.0
+Andrea Baldi,Andrea Baldi,1,; Members,0,0.0,0.0,0.0,0.0,296,0.0,0,0.0,0.0,0.0
+PanÄçe Panov,PanÄçe Panov,2,; Members,0,0.0,0.0,0.0,0.0,297,0.0,0,0.0,0.0,0.0
+Sharon Webb,Sharon Webb,1,; Members,0,0.0,0.0,0.0,0.0,298,0.0,0,0.0,0.0,0.0
+David Morse,David Morse,3,; Members,5,15.0,3.0,2.021333333333333,0.0,79,1.0,10,1.0,15.0,0.03413979279880541
+Charles Vardeman II,Charles Vardeman II,3,; Members,6,18.0,3.0,2.016,0.0,286,1.0,15,1.0,18.0,0.05882382495707371
+Masaki AIHARA,Masaki AIHARA,1,; Members,0,0.0,0.0,0.0,0.0,299,0.0,0,0.0,0.0,0.0
+Richard Fulss,Richard Fulss,2,; Members,0,0.0,0.0,0.0,0.0,300,0.0,0,0.0,0.0,0.0
+Cheng Liu,Cheng Liu,2,; Members,0,0.0,0.0,0.0,0.0,301,0.0,0,0.0,0.0,0.0
+Liisi Lembinen,Liisi Lembinen,1,; Members,0,0.0,0.0,0.0,0.0,302,0.0,0,0.0,0.0,0.0
+Tho Nguyen,Tho Nguyen,1,; Members,0,0.0,0.0,0.0,0.0,303,0.0,0,0.0,0.0,0.0
+Juan Bicarregui,Juan Bicarregui,1,; Members,0,0.0,0.0,0.0,0.0,304,0.0,0,0.0,0.0,0.0
+Jarno Laitinen,Jarno Laitinen,1,; Members,0,0.0,0.0,0.0,0.0,305,0.0,0,0.0,0.0,0.0
+Federated Identity Management,Federated Identity Management,1,; Members,0,0.0,0.0,0.0,0.0,306,0.0,0,0.0,0.0,0.0
+Jos van Wezel,Jos van Wezel,4,; Members,16,49.0,3.0,1.976,98.84568243480571,489,0.7166666666666667,86,0.722449,49.0,0.09537041031007974
+Bohdan Schatschneider,Bohdan Schatschneider,1,; Members,0,0.0,0.0,0.0,0.0,307,0.0,0,0.0,0.0,0.0
+Mark Hedges,Mark Hedges,1,; Members,0,0.0,0.0,0.0,0.0,308,0.0,0,0.0,0.0,0.0
+Oya Beyan,Oya Beyan,7,; Members,9,36.0,3.0,2.005333333333333,11.814388330967269,697,0.75,27,0.7881945,36.0,0.06848551456202598
+Juan Soto,Juan Soto,1,; Members,0,0.0,0.0,0.0,0.0,309,0.0,0,0.0,0.0,0.0
+Phil Journeau,Phil Journeau,1,; Members,0,0.0,0.0,0.0,0.0,310,0.0,0,0.0,0.0,0.0
+Laura Bartolo,Laura Bartolo,3,; Members,4,12.0,3.0,2.034666666666667,0.0,489,1.0,6,1.0,12.0,0.042823199789256076
+Stephane Coutin,Stephane Coutin,1,; Members,0,0.0,0.0,0.0,0.0,311,0.0,0,0.0,0.0,0.0
+Jonathan Yu,Jonathan Yu,1,; Members,0,0.0,0.0,0.0,0.0,312,0.0,0,0.0,0.0,0.0
+Repository Audit and Certification DSAâ€“WDS Partnership WG,Repository Audit and Certification DSAâ€“WDS Partnership WG,1,Working Group,0,0.0,0.0,0.0,0.0,313,0.0,0,0.0,0.0,0.0
+Katharina Mueller,Katharina Mueller,1,; Members,0,0.0,0.0,0.0,0.0,314,0.0,0,0.0,0.0,0.0
+Simon Cox,Simon Cox,13,; Members,58,264.0,3.0,1.872,87.74328143616354,286,0.5934664246823956,981,0.67012227,264.0,0.3653988146285979
+Sandro Fiore,Sandro Fiore,4,; Members,7,24.0,3.0,2.010666666666667,0.4419642857142857,489,0.9047619047619048,19,0.9166667,24.0,0.07051606231903247
+Line Pouchard,Line Pouchard,2,; Members,0,0.0,0.0,0.0,0.0,315,0.0,0,0.0,0.0,0.0
+Christophe Debruyne,Christophe Debruyne,1,; Members,0,0.0,0.0,0.0,0.0,316,0.0,0,0.0,0.0,0.0
+Toru Suzuki,Toru Suzuki,1,; Members,0,0.0,0.0,0.0,0.0,317,0.0,0,0.0,0.0,0.0
+Afonso Duarte,Afonso Duarte,1,; Members,0,0.0,0.0,0.0,0.0,318,0.0,0,0.0,0.0,0.0
+Alison Kenner,Alison Kenner,1,; Members,0,0.0,0.0,0.0,0.0,319,0.0,0,0.0,0.0,0.0
+LuboÅ¡ KrÄçÃ¡l,LuboÅ¡ KrÄçÃ¡l,1,; Members,0,0.0,0.0,0.0,0.0,320,0.0,0,0.0,0.0,0.0
+Scott Brim,Scott Brim,2,; Members,0,0.0,0.0,0.0,0.0,321,0.0,0,0.0,0.0,0.0
+Ana van Meegen,Ana van Meegen,7,; Members,62,223.0,3.0,1.8506666666666667,62.67044788457565,440,0.5959809624537282,1127,0.6339043,223.0,0.377570741444913
+Hyoungjoo Park,Hyoungjoo Park,4,; Members,17,55.0,3.0,1.9813333333333334,0.9333333333333335,286,0.9411764705882353,128,0.94545454,55.0,0.1572702779557935
+Linda Naughton,Linda Naughton,1,; Members,0,0.0,0.0,0.0,0.0,322,0.0,0,0.0,0.0,0.0
+Metabolomics Data Interoperability IG,Metabolomics Data Interoperability IG,1,Working Group,0,0.0,0.0,0.0,0.0,323,0.0,0,0.0,0.0,0.0
+Vincent Smith,Vincent Smith,1,; Members,0,0.0,0.0,0.0,0.0,324,0.0,0,0.0,0.0,0.0
+Rob Pennington,Rob Pennington,1,; Members,0,0.0,0.0,0.0,0.0,325,0.0,0,0.0,0.0,0.0
+Tuomas J. AlaterÃ_,Tuomas J. AlaterÃ_,2,; Members,0,0.0,0.0,0.0,0.0,326,0.0,0,0.0,0.0,0.0
+Barbara Sierman,Barbara Sierman,7,; Members,46,178.0,3.0,1.888,10.054238211885712,489,0.8067632850241546,835,0.8398253,178.0,0.342998088356259
+Kevin Ashley,Kevin Ashley,15,; Members,149,655.0,3.0,1.6106666666666667,1330.4368837790823,440,0.30999455831670597,3418,0.39243862,655.0,0.6931500609185963
+James Wilson,James Wilson,1,; Members,0,0.0,0.0,0.0,0.0,327,0.0,0,0.0,0.0,0.0
+John Kratz,John Kratz,3,; Members,10,30.0,3.0,2.0,0.0,489,1.0,45,1.0,30.0,0.07453947252707001
+Yanfeng Shu,Yanfeng Shu,1,; Members,0,0.0,0.0,0.0,0.0,328,0.0,0,0.0,0.0,0.0
+Hua Xu,Hua Xu,1,; Members,0,0.0,0.0,0.0,0.0,329,0.0,0,0.0,0.0,0.0
+Tibor KÃ¡lmÃ¡n,Tibor KÃ¡lmÃ¡n,4,; Members,19,62.0,3.0,1.9786666666666666,0.42380952380952375,286,0.9649122807017544,165,0.9677419,62.0,0.15637381971632305
+Mingfang Wu,Mingfang Wu,2,; Members,0,0.0,0.0,0.0,0.0,330,0.0,0,0.0,0.0,0.0
+Bernard Avril,Bernard Avril,1,; Members,0,0.0,0.0,0.0,0.0,331,0.0,0,0.0,0.0,0.0
+Iain Hrynaszkiewicz,Iain Hrynaszkiewicz,1,; Members,0,0.0,0.0,0.0,0.0,332,0.0,0,0.0,0.0,0.0
+Gerry Ryder,Gerry Ryder,1,; Members,0,0.0,0.0,0.0,0.0,333,0.0,0,0.0,0.0,0.0
+Wendy Hagenmaier,Wendy Hagenmaier,2,; Members,0,0.0,0.0,0.0,0.0,334,0.0,0,0.0,0.0,0.0
+Sarah Callaghan,Sarah Callaghan,8,; Members,59,239.0,3.0,1.8506666666666667,50.00496552762921,489,0.6481589713617767,1109,0.67811286,239.0,0.37048093808378524
+Sharon Traweek,Sharon Traweek,1,; Members,0,0.0,0.0,0.0,0.0,335,0.0,0,0.0,0.0,0.0
+Alexandra Archibald (MSc),Alexandra Archibald (MSc),1,; Members,0,0.0,0.0,0.0,0.0,336,0.0,0,0.0,0.0,0.0
+Jerome Whitington,Jerome Whitington,1,; Members,0,0.0,0.0,0.0,0.0,337,0.0,0,0.0,0.0,0.0
+Hannes Thiemann,Hannes Thiemann,7,; Members,56,203.0,3.0,1.864,37.75420084534026,489,0.6461038961038961,995,0.6827586,203.0,0.35773083021819646
+Raul Marino,Raul Marino,1,; Members,0,0.0,0.0,0.0,0.0,338,0.0,0,0.0,0.0,0.0
+Dietmar HerrendÃ¶rfer,Dietmar HerrendÃ¶rfer,1,; Members,0,0.0,0.0,0.0,0.0,339,0.0,0,0.0,0.0,0.0
+Artemis Lavasa,Artemis Lavasa,1,; Members,0,0.0,0.0,0.0,0.0,340,0.0,0,0.0,0.0,0.0
+Sarah Judson,Sarah Judson,6,; Members,45,160.0,3.0,1.9013333333333333,6.981709921155153,286,0.8393939393939394,831,0.8572443,160.0,0.3407507570559155
+David Wang,David Wang,2,; Members,0,0.0,0.0,0.0,0.0,341,0.0,0,0.0,0.0,0.0
+Tim Hasler,Tim Hasler,2,; Members,0,0.0,0.0,0.0,0.0,342,0.0,0,0.0,0.0,0.0
+John Erickson,John Erickson,2,; Members,0,0.0,0.0,0.0,0.0,343,0.0,0,0.0,0.0,0.0
+Leslie Hsu,Leslie Hsu,2,; Members,0,0.0,0.0,0.0,0.0,344,0.0,0,0.0,0.0,0.0
+Anthony Buccitelli,Anthony Buccitelli,1,; Members,0,0.0,0.0,0.0,0.0,345,0.0,0,0.0,0.0,0.0
+Benjamin White,Benjamin White,1,; Members,0,0.0,0.0,0.0,0.0,346,0.0,0,0.0,0.0,0.0
+RDA/WDS Publishing Data Bibliometrics WG,RDA/WDS Publishing Data Bibliometrics WG,1,; Members,0,0.0,0.0,0.0,0.0,347,0.0,0,0.0,0.0,0.0
+Scott Henry,Scott Henry,1,; Members,0,0.0,0.0,0.0,0.0,348,0.0,0,0.0,0.0,0.0
+Antonio Rosato,Antonio Rosato,2,; Members,0,0.0,0.0,0.0,0.0,349,0.0,0,0.0,0.0,0.0
+Jonathan Crabtree,Jonathan Crabtree,1,; Members,0,0.0,0.0,0.0,0.0,350,0.0,0,0.0,0.0,0.0
+Katie Dunn,Katie Dunn,6,; Members,67,255.0,3.0,1.832,28.837444813813402,489,0.7001356852103121,1548,0.7499703,255.0,0.45563378065714205
+Jared Lyle,Jared Lyle,1,; Members,0,0.0,0.0,0.0,0.0,351,0.0,0,0.0,0.0,0.0
+Albert Heyrovsky,Albert Heyrovsky,5,; Members,27,98.0,3.0,1.952,1.5874325247019017,286,0.905982905982906,318,0.9203297,98.0,0.21664726413888052
+ELENI PETRA,ELENI PETRA,1,; Members,0,0.0,0.0,0.0,0.0,352,0.0,0,0.0,0.0,0.0
+Thomas Proffen,Thomas Proffen,1,; Members,0,0.0,0.0,0.0,0.0,353,0.0,0,0.0,0.0,0.0
+PID IG,PID IG,1,Working Group,0,0.0,0.0,0.0,0.0,354,0.0,0,0.0,0.0,0.0
+Pascal Perez,Pascal Perez,1,; Members,0,0.0,0.0,0.0,0.0,355,0.0,0,0.0,0.0,0.0
+Jason Sadler,Jason Sadler,1,; Members,0,0.0,0.0,0.0,0.0,356,0.0,0,0.0,0.0,0.0
+MORRIS RIEDEL,MORRIS RIEDEL,1,; Members,0,0.0,0.0,0.0,0.0,357,0.0,0,0.0,0.0,0.0
+Xiaoli Li,Xiaoli Li,5,; Members,28,91.0,3.0,1.952,4.302155789842222,286,0.8650793650793651,327,0.8738299,91.0,0.23056018255799873
+Nancy Galbraith,Nancy Galbraith,1,; Members,0,0.0,0.0,0.0,0.0,358,0.0,0,0.0,0.0,0.0
+Robert Huber,Robert Huber,2,; Members,0,0.0,0.0,0.0,0.0,359,0.0,0,0.0,0.0,0.0
+Thomas Jejkal,Thomas Jejkal,3,; Members,1,3.0,4.0,2.7466666666666666,0.0,286,0.0,0,0.0,3.0,0.0069556038345667945
+Parinaz Ameri,Parinaz Ameri,2,; Members,0,0.0,0.0,0.0,0.0,360,0.0,0,0.0,0.0,0.0
+Carlos Iglesias,Carlos Iglesias,3,; Members,28,84.0,3.0,1.952,0.0,697,1.0,378,0.99999994,84.0,0.2464626653519357
+Fotis Karagiannis,Fotis Karagiannis,3,; Members,1,3.0,4.0,2.6373333333333333,0.0,489,0.0,0,0.0,3.0,0.008608891367438065
+Andrea Perego,Andrea Perego,15,; Members,137,662.0,3.0,1.6426666666666667,423.7106486937141,286,0.3794547015886647,3535,0.4892816,662.0,0.7087257606182437
+Peter Loewe,Peter Loewe,1,; Members,0,0.0,0.0,0.0,0.0,361,0.0,0,0.0,0.0,0.0
+Rene Patnode,Rene Patnode,1,; Members,0,0.0,0.0,0.0,0.0,362,0.0,0,0.0,0.0,0.0
+Matthew Jacobsen,Matthew Jacobsen,2,; Members,0,0.0,0.0,0.0,0.0,363,0.0,0,0.0,0.0,0.0
+Ryan Shaw,Ryan Shaw,1,; Members,0,0.0,0.0,0.0,0.0,364,0.0,0,0.0,0.0,0.0
+Data Citation WG,Data Citation WG,1,Working Group,0,0.0,0.0,0.0,0.0,365,0.0,0,0.0,0.0,0.0
+Takafumi KATO,Takafumi KATO,1,; Members,0,0.0,0.0,0.0,0.0,366,0.0,0,0.0,0.0,0.0
+Qing Liu,Qing Liu,3,; Members,8,24.0,3.0,2.008,0.0,489,1.0,28,1.0,24.0,0.0858318652762423
+Colleen Strawhacker,Colleen Strawhacker,1,; Members,0,0.0,0.0,0.0,0.0,367,0.0,0,0.0,0.0,0.0
+Nick Krabbenhoeft,Nick Krabbenhoeft,1,; Members,0,0.0,0.0,0.0,0.0,368,0.0,0,0.0,0.0,0.0
+Jay Pearlman,Jay Pearlman,2,; Members,0,0.0,0.0,0.0,0.0,369,0.0,0,0.0,0.0,0.0
+Rick Gilmore,Rick Gilmore,1,; Members,0,0.0,0.0,0.0,0.0,370,0.0,0,0.0,0.0,0.0
+Gilles ADDA,Gilles ADDA,1,; Members,0,0.0,0.0,0.0,0.0,371,0.0,0,0.0,0.0,0.0
+Todd Vision,Todd Vision,2,; Members,0,0.0,0.0,0.0,0.0,372,0.0,0,0.0,0.0,0.0
+Piret Veeroja,Piret Veeroja,1,; Members,0,0.0,0.0,0.0,0.0,373,0.0,0,0.0,0.0,0.0
+Amir Aryani,Amir Aryani,8,; Members,41,160.0,3.0,1.9093333333333333,27.856692982323487,286,0.7463414634146341,612,0.7764062,160.0,0.2945119788265825
+Zoran Bekic,Zoran Bekic,7,; Members,44,160.0,3.0,1.8933333333333333,8.793278104850042,489,0.8424947145877378,797,0.86380816,160.0,0.3325482992715429
+Aravind Venkatesan,Aravind Venkatesan,3,; Members,3,9.0,3.0,2.037333333333333,0.0,79,1.0,3,1.0,9.0,0.014856046626156283
+Diana Hendrickx,Diana Hendrickx,2,; Members,0,0.0,0.0,0.0,0.0,374,0.0,0,0.0,0.0,0.0
+Steve Kempler,Steve Kempler,1,; Members,0,0.0,0.0,0.0,0.0,375,0.0,0,0.0,0.0,0.0
+Alex Ball,Alex Ball,5,; Members,39,134.0,3.0,1.9226666666666667,3.8056144201454933,697,0.8893387314439946,659,0.90121764,134.0,0.30065729134745467
+Aaron Collie,Aaron Collie,1,; Members,0,0.0,0.0,0.0,0.0,376,0.0,0,0.0,0.0,0.0
+Patrice Ajai-Ajagbe,Patrice Ajai-Ajagbe,3,; Members,14,42.0,3.0,1.992,0.0,440,1.0,91,1.0,42.0,0.08784466192017133
+Nick Jones,Nick Jones,4,; Members,4,12.0,3.0,2.034666666666667,0.0,286,1.0,6,1.0,12.0,0.04490106638695686
+Peter Pennefather,Peter Pennefather,1,; Members,0,0.0,0.0,0.0,0.0,377,0.0,0,0.0,0.0,0.0
+John Russell,John Russell,1,; Members,0,0.0,0.0,0.0,0.0,378,0.0,0,0.0,0.0,0.0
+XiaoXuan Wang,XiaoXuan Wang,3,; Members,7,21.0,3.0,2.010666666666667,0.0,286,1.0,21,1.0,21.0,0.06649030888763997
+Tim Williams,Tim Williams,1,; Members,0,0.0,0.0,0.0,0.0,379,0.0,0,0.0,0.0,0.0
+Maaike Messelink,Maaike Messelink,3,; Members,6,18.0,3.0,2.024,0.0,440,1.0,15,1.0,18.0,0.039131533760124355
+David Skinner,David Skinner,4,; Members,5,16.0,3.0,2.021333333333333,0.0,489,1.0,10,1.0,16.0,0.05791030931187078
+Sergio Andreozzi,Sergio Andreozzi,1,; Members,0,0.0,0.0,0.0,0.0,380,0.0,0,0.0,0.0,0.0
+Brokering Governance,Brokering Governance,1,Working Group,0,0.0,0.0,0.0,0.0,381,0.0,0,0.0,0.0,0.0
+Kim Fortun,Kim Fortun,2,; Members,0,0.0,0.0,0.0,0.0,382,0.0,0,0.0,0.0,0.0
+Isao Kojima,Isao Kojima,2,; Members,0,0.0,0.0,0.0,0.0,383,0.0,0,0.0,0.0,0.0
+Andy Kolovos,Andy Kolovos,1,; Members,0,0.0,0.0,0.0,0.0,384,0.0,0,0.0,0.0,0.0
+Anwar Vahed,Anwar Vahed,2,; Members,0,0.0,0.0,0.0,0.0,385,0.0,0,0.0,0.0,0.0
+Julio Ramirez,Julio Ramirez,1,; Members,0,0.0,0.0,0.0,0.0,386,0.0,0,0.0,0.0,0.0
+Jeff Braswell,Jeff Braswell,1,; Members,0,0.0,0.0,0.0,0.0,387,0.0,0,0.0,0.0,0.0
+Aaron Addison,Aaron Addison,3,; Members,4,12.0,3.0,2.024,0.0,286,1.0,6,1.0,12.0,0.043096332035986444
+Owen Appleton,Owen Appleton,1,; Members,0,0.0,0.0,0.0,0.0,388,0.0,0,0.0,0.0,0.0
+Fernanda Peset,Fernanda Peset,1,; Members,0,0.0,0.0,0.0,0.0,389,0.0,0,0.0,0.0,0.0
+Odile Hologne,Odile Hologne,3,; Members,5,15.0,3.0,2.032,0.0,79,1.0,10,1.0,15.0,0.0177148252276899
+Maria Krestyaninova,Maria Krestyaninova,6,; Members,9,33.0,3.0,2.010666666666667,0.2196969696969697,763,0.9166666666666666,33,0.9280303,33.0,0.07501841981882768
+Peter Rose,Peter Rose,1,; Members,0,0.0,0.0,0.0,0.0,390,0.0,0,0.0,0.0,0.0
+Bob Jones,Bob Jones,2,; Members,0,0.0,0.0,0.0,0.0,391,0.0,0,0.0,0.0,0.0
+Development of cloud computing capacity and education in developing world research,Development of cloud computing capacity and education in developing world research,1,Working Group,0,0.0,0.0,0.0,0.0,392,0.0,0,0.0,0.0,0.0
+Yuri Malitsky,Yuri Malitsky,1,; Members,0,0.0,0.0,0.0,0.0,393,0.0,0,0.0,0.0,0.0
+Merce Crosas,Merce Crosas,1,; Members,0,0.0,0.0,0.0,0.0,394,0.0,0,0.0,0.0,0.0
+Ian Fore,Ian Fore,3,; Members,15,45.0,3.0,1.992,0.0,697,1.0,105,1.0,45.0,0.12384444126567172
+Javier Otegui,Javier Otegui,4,; Members,12,39.0,3.0,1.9973333333333334,1.1909302753983606,763,0.8636363636363636,57,0.8741259,39.0,0.07246868202375224
+Toxicogenomics Interoperability IG,Toxicogenomics Interoperability IG,1,Working Group,0,0.0,0.0,0.0,0.0,395,0.0,0,0.0,0.0,0.0
+Beth Secrist,Beth Secrist,1,; Members,0,0.0,0.0,0.0,0.0,396,0.0,0,0.0,0.0,0.0
+Carly Strasser,Carly Strasser,2,; Members,0,0.0,0.0,0.0,0.0,397,0.0,0,0.0,0.0,0.0
+Becca Wilson,Becca Wilson,3,; Members,4,12.0,3.0,2.021333333333333,0.0,489,1.0,6,1.0,12.0,0.04108735129180666
+Joachim Wuttke,Joachim Wuttke,1,; Members,0,0.0,0.0,0.0,0.0,398,0.0,0,0.0,0.0,0.0
+Elodie Lievre,Elodie Lievre,1,; Members,0,0.0,0.0,0.0,0.0,399,0.0,0,0.0,0.0,0.0
+Barend KÃ¶bben,Barend KÃ¶bben,1,; Members,0,0.0,0.0,0.0,0.0,400,0.0,0,0.0,0.0,0.0
+Max Craglia,Max Craglia,3,; Members,3,9.0,3.0,2.026666666666667,0.0,286,1.0,3,1.0,9.0,0.03170564256691366
+Dean Flanders,Dean Flanders,1,; Members,0,0.0,0.0,0.0,0.0,401,0.0,0,0.0,0.0,0.0
+Melanie Wacker,Melanie Wacker,1,; Members,0,0.0,0.0,0.0,0.0,402,0.0,0,0.0,0.0,0.0
+Tomas LundÃ©n,Tomas LundÃ©n,3,; Members,3,9.0,3.0,2.026666666666667,0.0,286,1.0,3,1.0,9.0,0.03703368147548586
+Active Data Management Plans,Active Data Management Plans,1,Working Group,0,0.0,0.0,0.0,0.0,403,0.0,0,0.0,0.0,0.0
+Christophe Blanchi,Christophe Blanchi,1,; Members,0,0.0,0.0,0.0,0.0,404,0.0,0,0.0,0.0,0.0
+Rahul Ramachandran,Rahul Ramachandran,1,; Members,0,0.0,0.0,0.0,0.0,405,0.0,0,0.0,0.0,0.0
+Data Fabric IG,Data Fabric IG,1,Working Group,0,0.0,0.0,0.0,0.0,406,0.0,0,0.0,0.0,0.0
+Annemiek van der Kuil,Annemiek van der Kuil,4,; Members,25,80.0,3.0,1.952,6.152861353742083,440,0.7533333333333333,226,0.76875,80.0,0.1548545981348231
+Nuno Freire,Nuno Freire,3,; Members,6,18.0,3.0,2.016,0.0,440,1.0,15,1.0,18.0,0.06248720431479869
+Milan Prica,Milan Prica,1,; Members,0,0.0,0.0,0.0,0.0,407,0.0,0,0.0,0.0,0.0
+Tobias Spears,Tobias Spears,9,; Members,79,325.0,3.0,1.808,111.1536015869708,286,0.5504706264199936,1696,0.622288,325.0,0.4727433486758781
+Julie Sutton,Julie Sutton,1,; Members,0,0.0,0.0,0.0,0.0,408,0.0,0,0.0,0.0,0.0
+Sophie Aubin,Sophie Aubin,1,; Members,0,0.0,0.0,0.0,0.0,409,0.0,0,0.0,0.0,0.0
+Fabio Galatioto,Fabio Galatioto,1,; Members,0,0.0,0.0,0.0,0.0,410,0.0,0,0.0,0.0,0.0
+Xiaogang Ma,Xiaogang Ma,13,; Members,98,430.0,3.0,1.7493333333333334,190.98173263272574,286,0.48222175468125394,2292,0.5705826,430.0,0.5568432319048713
+James Warren,James Warren,1,; Members,0,0.0,0.0,0.0,0.0,411,0.0,0,0.0,0.0,0.0
+Candice Lanius,Candice Lanius,2,; Members,0,0.0,0.0,0.0,0.0,412,0.0,0,0.0,0.0,0.0
+Niall Gaffney,Niall Gaffney,3,; Members,12,36.0,3.0,2.0,0.0,286,1.0,66,1.0,36.0,0.12119304768503979
+Mahroof M,Mahroof M,3,; Members,5,15.0,3.0,2.021333333333333,0.0,489,1.0,10,1.0,15.0,0.0568632801449582
+RDA/WDS Publishing Data Workflows WG,RDA/WDS Publishing Data Workflows WG,1,Working Group,0,0.0,0.0,0.0,0.0,413,0.0,0,0.0,0.0,0.0
+Raphael Ritz,Raphael Ritz,3,; Members,6,18.0,4.0,2.3626666666666667,0.0,286,1.0,15,1.0,18.0,0.03902651111356786
+DraÅ_en TutiÄ‡,DraÅ_en TutiÄ‡,1,; Members,0,0.0,0.0,0.0,0.0,414,0.0,0,0.0,0.0,0.0
+Bente Lilja Bye,Bente Lilja Bye,2,; Members,0,0.0,0.0,0.0,0.0,415,0.0,0,0.0,0.0,0.0
+Matthew Turk,Matthew Turk,6,; Members,22,73.0,3.0,1.9546666666666668,8.703007275979427,286,0.7662337662337663,177,0.7795173,73.0,0.1635156630128446
+Eduardo Dalcin,Eduardo Dalcin,1,; Members,0,0.0,0.0,0.0,0.0,416,0.0,0,0.0,0.0,0.0
+Veerle Van den Eynden,Veerle Van den Eynden,5,; Members,27,97.0,3.0,1.9466666666666668,1.0726378212560959,440,0.9515669515669516,334,0.9567803,97.0,0.23627424766922683
+Stefanie Lewis,Stefanie Lewis,1,; Members,0,0.0,0.0,0.0,0.0,417,0.0,0,0.0,0.0,0.0
+Michael Finn,Michael Finn,1,; Members,0,0.0,0.0,0.0,0.0,418,0.0,0,0.0,0.0,0.0
+Thomas Lemberger,Thomas Lemberger,1,; Members,0,0.0,0.0,0.0,0.0,419,0.0,0,0.0,0.0,0.0
+Alejandra Gonzalez-Beltran,Alejandra Gonzalez-Beltran,17,; Members,127,559.0,3.0,1.6666666666666667,664.0604058524252,697,0.3753280839895013,3003,0.47159043,559.0,0.648375025970256
+Nikos Manolis,Nikos Manolis,4,; Members,4,14.0,3.0,2.029333333333333,0.0,286,1.0,6,1.0,14.0,0.03468568939255263
+Roberto Roncella,Roberto Roncella,1,; Members,0,0.0,0.0,0.0,0.0,420,0.0,0,0.0,0.0,0.0
+Ian Foster,Ian Foster,3,; Members,1,3.0,3.0,2.042666666666667,0.0,489,0.0,0,0.0,3.0,0.013793555484353725
+Dee Magnoni,Dee Magnoni,1,; Members,0,0.0,0.0,0.0,0.0,421,0.0,0,0.0,0.0,0.0
+Amy Barton,Amy Barton,4,; Members,30,99.0,3.0,1.9466666666666668,4.975241496536798,440,0.8091954022988506,352,0.82654124,99.0,0.2027664254006582
+Lukas HÃ_mmerle,Lukas HÃ_mmerle,1,; Members,0,0.0,0.0,0.0,0.0,422,0.0,0,0.0,0.0,0.0
+Glen Newton,Glen Newton,1,; Members,0,0.0,0.0,0.0,0.0,423,0.0,0,0.0,0.0,0.0
+Peter Hessels,Peter Hessels,1,; Members,0,0.0,0.0,0.0,0.0,424,0.0,0,0.0,0.0,0.0
+Elena Simukovic,Elena Simukovic,2,; Members,0,0.0,0.0,0.0,0.0,425,0.0,0,0.0,0.0,0.0
+Ethics and Social Aspects of Data,Ethics and Social Aspects of Data,1,Working Group,0,0.0,0.0,0.0,0.0,426,0.0,0,0.0,0.0,0.0
+Andreas Drakos,Andreas Drakos,3,; Members,5,15.0,3.0,2.032,0.0,79,1.0,10,1.0,15.0,0.022749263846144514
+BenoÃ®t Pirenne,BenoÃ®t Pirenne,1,; Members,0,0.0,0.0,0.0,0.0,427,0.0,0,0.0,0.0,0.0
+Fran Lightsom,Fran Lightsom,1,; Members,0,0.0,0.0,0.0,0.0,428,0.0,0,0.0,0.0,0.0
+Catherine Pink,Catherine Pink,3,; Members,6,18.0,3.0,2.024,0.0,440,1.0,15,1.0,18.0,0.04863376155271347
+Robert Chen,Robert Chen,1,; Members,0,0.0,0.0,0.0,0.0,429,0.0,0,0.0,0.0,0.0
+Juha Hakala,Juha Hakala,4,; Members,10,33.0,3.0,1.9973333333333334,0.0,286,1.0,45,1.0,33.0,0.0867463879914544
+Nicholas Car,Nicholas Car,1,; Members,0,0.0,0.0,0.0,0.0,430,0.0,0,0.0,0.0,0.0
+Thomas Radman,Thomas Radman,2,; Members,0,0.0,0.0,0.0,0.0,431,0.0,0,0.0,0.0,0.0
+John Kaye,John Kaye,3,; Members,8,24.0,3.0,2.010666666666667,0.0,697,1.0,28,1.0,24.0,0.07706110367719701
+Robert Arko,Robert Arko,4,; Members,12,38.0,3.0,1.992,0.0,286,1.0,66,0.99999994,38.0,0.11233083891844968
+Catherine Rey,Catherine Rey,1,; Members,0,0.0,0.0,0.0,0.0,432,0.0,0,0.0,0.0,0.0
+Dieter Van Uytvanck,Dieter Van Uytvanck,3,; Members,5,15.0,3.0,2.016,0.0,286,1.0,10,1.0,15.0,0.04971484110990978
+VINCENT ODHIAMBO,VINCENT ODHIAMBO,1,; Members,0,0.0,0.0,0.0,0.0,433,0.0,0,0.0,0.0,0.0
+Marine Data Harmonization IG,Marine Data Harmonization IG,1,Working Group,0,0.0,0.0,0.0,0.0,434,0.0,0,0.0,0.0,0.0
+Luciene Delazari,Luciene Delazari,1,; Members,0,0.0,0.0,0.0,0.0,435,0.0,0,0.0,0.0,0.0
+Bastian Tweddell,Bastian Tweddell,2,; Members,0,0.0,0.0,0.0,0.0,436,0.0,0,0.0,0.0,0.0
+Nick Casey,Nick Casey,1,; Members,0,0.0,0.0,0.0,0.0,437,0.0,0,0.0,0.0,0.0
+Willem Elbers,Willem Elbers,1,; Members,0,0.0,0.0,0.0,0.0,438,0.0,0,0.0,0.0,0.0
+Martin Donnelly,Martin Donnelly,2,; Members,0,0.0,0.0,0.0,0.0,439,0.0,0,0.0,0.0,0.0
+Lyubomir Penev,Lyubomir Penev,3,; Members,1,3.0,3.0,2.042666666666667,0.0,489,0.0,0,0.0,3.0,0.013793555484353725
+Martin Hammitzsch,Martin Hammitzsch,21,; Members,204,999.0,2.0,1.456,2331.6866255080063,440,0.22375156959335457,4633,0.32383615,999.0,0.8392141446083098
+Baden Appleyard,Baden Appleyard,1,; Members,0,0.0,0.0,0.0,0.0,441,0.0,0,0.0,0.0,0.0
+Bob Muller,Bob Muller,3,; Members,2,6.0,3.0,2.04,0.0,697,1.0,1,1.0,6.0,0.020976298494426893
+Sharlynn Sweeney,Sharlynn Sweeney,2,; Members,0,0.0,0.0,0.0,0.0,442,0.0,0,0.0,0.0,0.0
+Jessica Tenenbaum,Jessica Tenenbaum,1,; Members,0,0.0,0.0,0.0,0.0,443,0.0,0,0.0,0.0,0.0
+Miriam Casula,Miriam Casula,1,; Members,0,0.0,0.0,0.0,0.0,444,0.0,0,0.0,0.0,0.0
+Victoria Stodden,Victoria Stodden,1,; Members,0,0.0,0.0,0.0,0.0,445,0.0,0,0.0,0.0,0.0
+Bruce Caron,Bruce Caron,3,; Members,6,18.0,3.0,2.029333333333333,0.0,489,1.0,15,1.0,18.0,0.05375667709015648
+Bart V.,Bart V.,1,; Members,0,0.0,0.0,0.0,0.0,446,0.0,0,0.0,0.0,0.0
+Joseph Tennis,Joseph Tennis,1,; Members,0,0.0,0.0,0.0,0.0,447,0.0,0,0.0,0.0,0.0
+Lindsay Poirier,Lindsay Poirier,1,; Members,0,0.0,0.0,0.0,0.0,448,0.0,0,0.0,0.0,0.0
+Wolfgang Pempe,Wolfgang Pempe,1,; Members,0,0.0,0.0,0.0,0.0,449,0.0,0,0.0,0.0,0.0
+Data Rescue,Data Rescue,1,Working Group,0,0.0,0.0,0.0,0.0,450,0.0,0,0.0,0.0,0.0
+ELIXIR Bridging Force IG,ELIXIR Bridging Force IG,1,Working Group,0,0.0,0.0,0.0,0.0,451,0.0,0,0.0,0.0,0.0
+Richard Hosking,Richard Hosking,1,; Members,0,0.0,0.0,0.0,0.0,452,0.0,0,0.0,0.0,0.0
+Beth Plale,Beth Plale,2,; Members,0,0.0,0.0,0.0,0.0,453,0.0,0,0.0,0.0,0.0
+Bernard Schutz,Bernard Schutz,2,; Members,0,0.0,0.0,0.0,0.0,454,0.0,0,0.0,0.0,0.0
+Wendy Kozlowski,Wendy Kozlowski,6,; Members,17,56.0,3.0,1.9706666666666666,270.1480414961116,440,0.5514705882352942,75,0.57366073,56.0,0.09852332231984572
+David AntoÅ¡,David AntoÅ¡,3,; Members,2,6.0,3.0,2.1786666666666665,0.0,286,1.0,1,1.0,6.0,0.01347605249922325
+Manjula Patel,Manjula Patel,4,; Members,14,50.0,3.0,1.9973333333333334,0.8888888888888888,286,0.9120879120879121,83,0.92615384,50.0,0.11369134329709407
+Alex Wade,Alex Wade,2,; Members,0,0.0,0.0,0.0,0.0,455,0.0,0,0.0,0.0,0.0
+Enrico Boldrini,Enrico Boldrini,2,; Members,0,0.0,0.0,0.0,0.0,456,0.0,0,0.0,0.0,0.0
+Infrastructure & Interoperability IG,Infrastructure & Interoperability IG,1,Working Group,0,0.0,0.0,0.0,0.0,457,0.0,0,0.0,0.0,0.0
+George Percivall,George Percivall,4,; Members,15,48.0,3.0,1.9893333333333334,0.038461538461538464,286,0.9904761904761905,104,0.99107146,48.0,0.14086696000070426
+Dominique Mariko,Dominique Mariko,4,; Members,19,60.0,3.0,1.9786666666666666,0.02040816326530612,286,0.9941520467836257,170,0.99444443,60.0,0.16955268673273702
+Jennifer Lin,Jennifer Lin,1,; Members,0,0.0,0.0,0.0,0.0,458,0.0,0,0.0,0.0,0.0
+Robert Hanisch,Robert Hanisch,10,; Members,120,497.0,3.0,1.6853333333333333,361.90063318125556,489,0.4368347338935574,3119,0.5091727,497.0,0.6571346635982436
+Liping Di,Liping Di,1,; Members,0,0.0,0.0,0.0,0.0,459,0.0,0,0.0,0.0,0.0
+Melissa Haendel,Melissa Haendel,2,; Members,0,0.0,0.0,0.0,0.0,460,0.0,0,0.0,0.0,0.0
+Christoph Steinbeck,Christoph Steinbeck,1,; Members,0,0.0,0.0,0.0,0.0,461,0.0,0,0.0,0.0,0.0
+Margaret Hedstrom,Margaret Hedstrom,1,; Members,0,0.0,0.0,0.0,0.0,462,0.0,0,0.0,0.0,0.0
+Sylvia Ofosua Adjei,Sylvia Ofosua Adjei,4,; Members,10,32.0,3.0,2.002666666666667,0.07142857142857142,286,0.9777777777777777,44,0.9791667,32.0,0.09042467224153866
+Alli Morgan,Alli Morgan,1,; Members,0,0.0,0.0,0.0,0.0,463,0.0,0,0.0,0.0,0.0
+Meredith Jacob,Meredith Jacob,3,; Members,8,24.0,3.0,2.008,0.0,489,1.0,28,1.0,24.0,0.07902117051989323
+Cheryl Porter,Cheryl Porter,1,; Members,0,0.0,0.0,0.0,0.0,464,0.0,0,0.0,0.0,0.0
+Peter Gietz,Peter Gietz,1,; Members,0,0.0,0.0,0.0,0.0,465,0.0,0,0.0,0.0,0.0
+Stefan Proell,Stefan Proell,5,; Members,33,122.0,3.0,1.9413333333333334,1.781991373327249,286,0.9128787878787878,482,0.92443645,122.0,0.256234291147849
+Barbara Lafuente,Barbara Lafuente,2,; Members,0,0.0,0.0,0.0,0.0,466,0.0,0,0.0,0.0,0.0
+Kimmo Koskinen,Kimmo Koskinen,2,; Members,0,0.0,0.0,0.0,0.0,467,0.0,0,0.0,0.0,0.0
+Mari Sarv,Mari Sarv,1,; Members,0,0.0,0.0,0.0,0.0,468,0.0,0,0.0,0.0,0.0
+Vassilis Protonotarios,Vassilis Protonotarios,6,; Members,16,55.0,3.0,1.9893333333333334,27.95079724197371,79,0.43333333333333335,52,0.4739394,55.0,0.05988836653943419
+Chuck Miller,Chuck Miller,1,; Members,0,0.0,0.0,0.0,0.0,469,0.0,0,0.0,0.0,0.0
+Tom Griffin,Tom Griffin,1,; Members,0,0.0,0.0,0.0,0.0,470,0.0,0,0.0,0.0,0.0
+Chris Rawlings,Chris Rawlings,2,; Members,0,0.0,0.0,0.0,0.0,471,0.0,0,0.0,0.0,0.0
+Kendall Roark,Kendall Roark,2,; Members,0,0.0,0.0,0.0,0.0,472,0.0,0,0.0,0.0,0.0
+Murat Komesli,Murat Komesli,1,; Members,0,0.0,0.0,0.0,0.0,473,0.0,0,0.0,0.0,0.0
+Birgit Schmidt,Birgit Schmidt,4,; Members,23,76.0,3.0,1.9653333333333334,4.502305880892593,440,0.7984189723320159,202,0.8169856,76.0,0.14419260304951323
+Joachim Wackerow,Joachim Wackerow,12,; Members,105,467.0,3.0,1.7333333333333334,256.00759496177807,286,0.4573260073260073,2497,0.542353,467.0,0.581458148897358
+Dave Connell,Dave Connell,5,; Members,35,120.0,3.0,1.9333333333333333,2.4498419539953926,286,0.8873949579831932,528,0.89656866,120.0,0.2794226510821597
+Uli Hahn,Uli Hahn,5,; Members,30,98.0,3.0,1.928,287.82690328265477,440,0.632183908045977,275,0.6520056,98.0,0.1829868783215996
+Martha Whitehead,Martha Whitehead,2,; Members,0,0.0,0.0,0.0,0.0,474,0.0,0,0.0,0.0,0.0
+Ylonka Machado,Ylonka Machado,1,; Members,0,0.0,0.0,0.0,0.0,475,0.0,0,0.0,0.0,0.0
+Axel Schumacher,Axel Schumacher,2,; Members,0,0.0,0.0,0.0,0.0,476,0.0,0,0.0,0.0,0.0
+GeneviÃ¨ve Romier,GeneviÃ¨ve Romier,1,; Members,0,0.0,0.0,0.0,0.0,477,0.0,0,0.0,0.0,0.0
+Mustapha Mokrane,Mustapha Mokrane,10,; Members,56,245.0,3.0,1.8586666666666667,50.06274534063604,489,0.6344155844155844,977,0.6742857,245.0,0.3436867649886297
+Biodiversity Data Integration IG,Biodiversity Data Integration IG,1,Working Group,0,0.0,0.0,0.0,0.0,478,0.0,0,0.0,0.0,0.0
+Takuya Kurashige,Takuya Kurashige,1,; Members,0,0.0,0.0,0.0,0.0,479,0.0,0,0.0,0.0,0.0
+Peng Yue,Peng Yue,2,; Members,0,0.0,0.0,0.0,0.0,480,0.0,0,0.0,0.0,0.0
+Angelina Kraft,Angelina Kraft,2,; Members,0,0.0,0.0,0.0,0.0,481,0.0,0,0.0,0.0,0.0
+Long tail of research data IG,Long tail of research data IG,1,Working Group,0,0.0,0.0,0.0,0.0,482,0.0,0,0.0,0.0,0.0
+Simon Hodson,Simon Hodson,21,; Members,136,629.0,3.0,1.64,1158.8205444378405,489,0.3362745098039216,3087,0.41815934,629.0,0.6550436043074566
+Laura Molloy,Laura Molloy,5,; Members,23,79.0,3.0,1.9626666666666666,7.3839327735360385,440,0.7470355731225297,189,0.7761795,79.0,0.12388221154309574
+Noel Conruyt,Noel Conruyt,1,; Members,0,0.0,0.0,0.0,0.0,483,0.0,0,0.0,0.0,0.0
+Tanja Friedrich,Tanja Friedrich,6,; Members,45,166.0,3.0,1.9013333333333333,6.315533406537772,697,0.8616161616161616,853,0.88239324,166.0,0.34570508776874603
+Elizabeth Hull,Elizabeth Hull,1,; Members,0,0.0,0.0,0.0,0.0,484,0.0,0,0.0,0.0,0.0
+Service Management IG,Service Management IG,1,Working Group,0,0.0,0.0,0.0,0.0,485,0.0,0,0.0,0.0,0.0
+Ellen Verbakel,Ellen Verbakel,2,; Members,0,0.0,0.0,0.0,0.0,486,0.0,0,0.0,0.0,0.0
+Leonardo Candela,Leonardo Candela,3,; Members,6,18.0,3.0,2.013333333333333,0.0,440,1.0,15,1.0,18.0,0.06265299359344353
+John Watkins,John Watkins,2,; Members,0,0.0,0.0,0.0,0.0,487,0.0,0,0.0,0.0,0.0
+Esther DZALE YEUMO KABORE,Esther DZALE YEUMO KABORE,5,; Members,6,19.0,3.0,2.018666666666667,1.6761904761904762,79,0.8,12,0.8105264,19.0,0.043994537293848744
+Meredith Morovati,Meredith Morovati,1,; Members,0,0.0,0.0,0.0,0.0,488,0.0,0,0.0,0.0,0.0
+Natalia Manola,Natalia Manola,5,; Members,27,91.0,3.0,1.944,5.356261555373296,489,0.8319088319088319,292,0.84530854,91.0,0.2148760639576057
+Timea Biro,Timea Biro,51,; Members,358,2066.0,2.0,1.0453333333333332,23017.585137581642,489,0.0903400466331784,5773,0.17301326,2066.0,1.0
+Keith Jeffery,Keith Jeffery,7,; Members,53,199.0,3.0,1.88,19.804261878324265,697,0.7714078374455733,1063,0.7992849,199.0,0.3797734920526904
+Sky Bristol,Sky Bristol,1,; Members,0,0.0,0.0,0.0,0.0,490,0.0,0,0.0,0.0,0.0
+Benjamin Gross,Benjamin Gross,1,; Members,0,0.0,0.0,0.0,0.0,491,0.0,0,0.0,0.0,0.0
+Richard Kidd,Richard Kidd,4,; Members,10,31.0,3.0,2.016,0.0,489,1.0,45,1.0,31.0,0.07931754629976272
+Markus Goetz,Markus Goetz,1,; Members,0,0.0,0.0,0.0,0.0,492,0.0,0,0.0,0.0,0.0
+Brook Schofield,Brook Schofield,1,; Members,0,0.0,0.0,0.0,0.0,493,0.0,0,0.0,0.0,0.0
+Andrew MAFFEI,Andrew MAFFEI,6,; Members,13,53.0,3.0,1.9946666666666666,0.08952702702702703,286,0.9743589743589743,76,0.9795597,53.0,0.11868583529930324
+Anthony Beck,Anthony Beck,1,; Members,0,0.0,0.0,0.0,0.0,494,0.0,0,0.0,0.0,0.0
+Hilary Davis,Hilary Davis,1,; Members,0,0.0,0.0,0.0,0.0,495,0.0,0,0.0,0.0,0.0
+Georgios Kakaletris,Georgios Kakaletris,1,; Members,0,0.0,0.0,0.0,0.0,496,0.0,0,0.0,0.0,0.0
+Chris Badurek,Chris Badurek,1,; Members,0,0.0,0.0,0.0,0.0,497,0.0,0,0.0,0.0,0.0
+Jeremy Geelen,Jeremy Geelen,3,; Members,6,18.0,3.0,2.024,0.0,440,1.0,15,1.0,18.0,0.038826264540093115
+Andrew Harrison,Andrew Harrison,6,; Members,17,64.0,3.0,1.9866666666666666,6.6054029304029305,763,0.6985294117647058,95,0.7451172,64.0,0.09688826269227792
+Steven Morris,Steven Morris,1,; Members,0,0.0,0.0,0.0,0.0,498,0.0,0,0.0,0.0,0.0
+Rick Crouthamel,Rick Crouthamel,1,; Members,0,0.0,0.0,0.0,0.0,499,0.0,0,0.0,0.0,0.0
+Christine Kirkpatrick,Christine Kirkpatrick,2,; Members,0,0.0,0.0,0.0,0.0,500,0.0,0,0.0,0.0,0.0
+Roxanne Wyns,Roxanne Wyns,1,; Members,0,0.0,0.0,0.0,0.0,501,0.0,0,0.0,0.0,0.0
+Jeremy Cope,Jeremy Cope,5,; Members,33,112.0,3.0,1.928,5.138210560113143,440,0.8503787878787878,449,0.86272323,112.0,0.2511698287307944
+Paola Bongiovani,Paola Bongiovani,1,; Members,0,0.0,0.0,0.0,0.0,502,0.0,0,0.0,0.0,0.0
+Thorsten Kracht,Thorsten Kracht,1,; Members,0,0.0,0.0,0.0,0.0,503,0.0,0,0.0,0.0,0.0
+Paul Bern,Paul Bern,3,; Members,5,15.0,3.0,2.018666666666667,0.0,489,1.0,10,1.0,15.0,0.05182357440270082
+National Data Services,National Data Services,1,Working Group,0,0.0,0.0,0.0,0.0,504,0.0,0,0.0,0.0,0.0
+Reza Salek,Reza Salek,1,; Members,0,0.0,0.0,0.0,0.0,505,0.0,0,0.0,0.0,0.0
+Dharma Akmon,Dharma Akmon,2,; Members,0,0.0,0.0,0.0,0.0,506,0.0,0,0.0,0.0,0.0
+Rebecca Boyles,Rebecca Boyles,1,; Members,0,0.0,0.0,0.0,0.0,507,0.0,0,0.0,0.0,0.0
+Ari Asmi,Ari Asmi,3,; Members,2,6.0,3.0,2.029333333333333,0.0,489,1.0,1,1.0,6.0,0.026905736959096368
+Lisa Conathan,Lisa Conathan,1,; Members,0,0.0,0.0,0.0,0.0,508,0.0,0,0.0,0.0,0.0
+Sarah Potvin,Sarah Potvin,4,; Members,15,47.0,3.0,1.9866666666666666,0.37285746834619016,286,0.9238095238095239,97,0.92705166,47.0,0.12353158300664903
+Paolo Manghi,Paolo Manghi,6,; Members,35,122.0,3.0,1.92,8.816513428276597,440,0.7899159663865546,470,0.80954677,122.0,0.26744125730085544
+Celia Emmelhainz,Celia Emmelhainz,6,; Members,23,75.0,3.0,1.9653333333333334,5.734928233724597,440,0.7747035573122529,196,0.79030305,75.0,0.1379791314558901
+Kostiantyn Yefremov,Kostiantyn Yefremov,4,; Members,21,71.0,3.0,1.968,0.4527150873644562,489,0.9571428571428572,201,0.9619718,71.0,0.1775841693983235
+Natalie Meyers,Natalie Meyers,6,; Members,32,103.0,3.0,1.928,289.06788756503323,440,0.6028225806451613,299,0.62292516,103.0,0.19185398950361598
+Kana Asano,Kana Asano,1,; Members,0,0.0,0.0,0.0,0.0,509,0.0,0,0.0,0.0,0.0
+Jeremy Cook,Jeremy Cook,1,; Members,0,0.0,0.0,0.0,0.0,510,0.0,0,0.0,0.0,0.0
+Natasha Balac,Natasha Balac,1,; Members,0,0.0,0.0,0.0,0.0,511,0.0,0,0.0,0.0,0.0
+Hannelore Vanhaverbeke,Hannelore Vanhaverbeke,2,; Members,0,0.0,0.0,0.0,0.0,512,0.0,0,0.0,0.0,0.0
+Varsha Khodiyar,Varsha Khodiyar,3,; Members,5,15.0,3.0,2.029333333333333,0.0,489,1.0,10,1.0,15.0,0.041006189058124115
+Jean-FranÃ§ois Perrin,Jean-FranÃ§ois Perrin,1,; Members,0,0.0,0.0,0.0,0.0,513,0.0,0,0.0,0.0,0.0
+Ashley White,Ashley White,1,; Members,0,0.0,0.0,0.0,0.0,514,0.0,0,0.0,0.0,0.0
+Romain Wartel,Romain Wartel,1,; Members,0,0.0,0.0,0.0,0.0,515,0.0,0,0.0,0.0,0.0
+David King,David King,5,; Members,16,56.0,3.0,1.992,0.12460127591706538,697,0.975,117,0.9785715,56.0,0.14359674655461185
+Matthias Razum,Matthias Razum,2,; Members,0,0.0,0.0,0.0,0.0,516,0.0,0,0.0,0.0,0.0
+Tom Cramer,Tom Cramer,1,; Members,0,0.0,0.0,0.0,0.0,517,0.0,0,0.0,0.0,0.0
+Research Data Provenance,Research Data Provenance,1,Working Group,0,0.0,0.0,0.0,0.0,518,0.0,0,0.0,0.0,0.0
+Nigel Robinson,Nigel Robinson,2,; Members,0,0.0,0.0,0.0,0.0,519,0.0,0,0.0,0.0,0.0
+Carole Palmer,Carole Palmer,1,; Members,0,0.0,0.0,0.0,0.0,520,0.0,0,0.0,0.0,0.0
+Mike Usmar,Mike Usmar,2,; Members,0,0.0,0.0,0.0,0.0,521,0.0,0,0.0,0.0,0.0
+Laurie Taylor,Laurie Taylor,6,; Members,45,159.0,3.0,1.896,20.48345758926775,489,0.7464646464646465,739,0.7747284,159.0,0.3214301284666981
+Tim Smith,Tim Smith,6,; Members,47,163.0,3.0,1.88,22.692378651172472,489,0.7187789084181314,777,0.7467325,163.0,0.3248230392093039
+Phil James,Phil James,1,; Members,0,0.0,0.0,0.0,0.0,522,0.0,0,0.0,0.0,0.0
+Arjan Hogenaar,Arjan Hogenaar,1,; Members,0,0.0,0.0,0.0,0.0,523,0.0,0,0.0,0.0,0.0
+Hannah Baker,Hannah Baker,1,; Members,0,0.0,0.0,0.0,0.0,524,0.0,0,0.0,0.0,0.0
+Brian Hole,Brian Hole,1,; Members,0,0.0,0.0,0.0,0.0,525,0.0,0,0.0,0.0,0.0
+RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World,RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World,1,Working Group,0,0.0,0.0,0.0,0.0,526,0.0,0,0.0,0.0,0.0
+Giovanni Simonini,Giovanni Simonini,1,; Members,0,0.0,0.0,0.0,0.0,527,0.0,0,0.0,0.0,0.0
+Adam Shepherd,Adam Shepherd,4,; Members,7,23.0,3.0,2.016,0.058823529411764705,286,0.9523809523809523,20,0.95652175,23.0,0.053466439090028094
+Christine Trauttmansdorff,Christine Trauttmansdorff,3,; Members,3,9.0,3.0,2.037333333333333,0.0,489,1.0,3,1.0,9.0,0.027859923235110797
+Jason Baird Jackson,Jason Baird Jackson,4,; Members,10,31.0,3.0,2.013333333333333,0.3979196528109572,440,0.8888888888888888,40,0.8924731,31.0,0.08534784820295185
+Jane Greenberg,Jane Greenberg,8,; Members,51,193.0,3.0,1.8826666666666667,21.692776241527206,697,0.7239215686274509,923,0.76248705,193.0,0.3523168566543106
+Elizabeth Leake,Elizabeth Leake,5,; Members,3,12.0,3.0,2.026666666666667,0.0,286,1.0,3,1.0,12.0,0.037420381854553444
+Yde de Jong,Yde de Jong,1,; Members,0,0.0,0.0,0.0,0.0,528,0.0,0,0.0,0.0,0.0
+Jean Bernard Minster,Jean Bernard Minster,3,; Members,2,6.0,3.0,2.04,0.0,489,1.0,1,1.0,6.0,0.023921500000743206
+Mike Fortun,Mike Fortun,5,; Members,26,82.0,3.0,1.9493333333333334,7.442655667320289,440,0.7538461538461538,245,0.76487803,82.0,0.16398492817026672
+David Wilcox,David Wilcox,3,; Members,4,12.0,4.0,2.8613333333333335,0.0,440,1.0,6,1.0,12.0,0.0067911576099095785
+Stefanie Kethers,Stefanie Kethers,26,; Members,189,971.0,3.0,1.5066666666666666,1848.9892820823673,286,0.2360126083530339,4193,0.36376184,971.0,0.7961468578453726
+Chrysi Tsinaraki,Chrysi Tsinaraki,19,; Members,203,948.0,2.0,1.4586666666666666,2457.586365316141,440,0.21850460908159783,4480,0.31045035,948.0,0.8266052883962873
+Cynthia Parr,Cynthia Parr,4,; Members,6,20.0,3.0,2.018666666666667,0.0,697,1.0,15,1.0,20.0,0.05942793073541965
+Hugo Besemer,Hugo Besemer,1,; Members,0,0.0,0.0,0.0,0.0,529,0.0,0,0.0,0.0,0.0
+Kashif Iqbal,Kashif Iqbal,5,; Members,37,119.0,3.0,1.92,4.064548191889604,440,0.8558558558558559,570,0.86484593,119.0,0.2784529514300922
+Frank Toussaint,Frank Toussaint,7,; Members,43,163.0,3.0,1.904,7.016954101081051,489,0.8294573643410853,749,0.85305285,163.0,0.32503127862110487
+Wheat Data Interoperability WG,Wheat Data Interoperability WG,1,Working Group,0,0.0,0.0,0.0,0.0,530,0.0,0,0.0,0.0,0.0
+Chenzhou Cui,Chenzhou Cui,4,; Members,3,9.0,3.0,2.032,0.0,489,1.0,3,1.0,9.0,0.025323474234318535
+Rob Hooft,Rob Hooft,11,; Members,62,260.0,3.0,1.8506666666666667,65.05195303720687,286,0.6277102062400846,1187,0.68846154,260.0,0.3999218172562451
+Ned Dostaler,Ned Dostaler,1,; Members,0,0.0,0.0,0.0,0.0,531,0.0,0,0.0,0.0,0.0
+Mark Musen,Mark Musen,4,; Members,8,25.0,3.0,2.008,0.11458333333333333,697,0.8928571428571429,25,0.8971428,25.0,0.06627414998506685
+Charles Ward,Charles Ward,2,; Members,0,0.0,0.0,0.0,0.0,532,0.0,0,0.0,0.0,0.0
+Herbert Schentz,Herbert Schentz,4,; Members,2,6.0,3.0,2.1733333333333333,0.0,697,1.0,1,1.0,6.0,0.021584599006248248
+Antti Pursula,Antti Pursula,1,; Members,0,0.0,0.0,0.0,0.0,533,0.0,0,0.0,0.0,0.0
+Andrea Medina-Smith,Andrea Medina-Smith,2,; Members,0,0.0,0.0,0.0,0.0,534,0.0,0,0.0,0.0,0.0
+Alessia Bardi,Alessia Bardi,4,; Members,31,99.0,3.0,1.9413333333333334,1.269490865489915,697,0.9419354838709677,438,0.9454545,99.0,0.262281685013246
+Michael Nelson,Michael Nelson,1,; Members,0,0.0,0.0,0.0,0.0,535,0.0,0,0.0,0.0,0.0
+Sergio Ruiz,Sergio Ruiz,3,; Members,10,30.0,3.0,2.013333333333333,0.0,286,1.0,45,1.0,30.0,0.08637086313492387
+Data in Context IG,Data in Context IG,1,Working Group,0,0.0,0.0,0.0,0.0,536,0.0,0,0.0,0.0,0.0
+Arturo Martinez,Arturo Martinez,1,; Members,0,0.0,0.0,0.0,0.0,537,0.0,0,0.0,0.0,0.0
+Steve Aplin,Steve Aplin,1,; Members,0,0.0,0.0,0.0,0.0,538,0.0,0,0.0,0.0,0.0
+Chris Jacobsen,Chris Jacobsen,1,; Members,0,0.0,0.0,0.0,0.0,539,0.0,0,0.0,0.0,0.0
+Jim Basney,Jim Basney,1,; Members,0,0.0,0.0,0.0,0.0,540,0.0,0,0.0,0.0,0.0
+Christopher Jung,Christopher Jung,2,; Members,0,0.0,0.0,0.0,0.0,541,0.0,0,0.0,0.0,0.0
+Christine Staiger,Christine Staiger,5,; Members,34,117.0,3.0,1.936,1.6507152831948675,440,0.9162210338680927,514,0.92385393,117.0,0.27577613792504
+Dale Peters,Dale Peters,2,; Members,0,0.0,0.0,0.0,0.0,542,0.0,0,0.0,0.0,0.0
+Ian Truslove,Ian Truslove,2,; Members,0,0.0,0.0,0.0,0.0,543,0.0,0,0.0,0.0,0.0
+Miguel-Angel Sicilia,Miguel-Angel Sicilia,2,; Members,0,0.0,0.0,0.0,0.0,544,0.0,0,0.0,0.0,0.0
+Katherine McNeill,Katherine McNeill,2,; Members,0,0.0,0.0,0.0,0.0,545,0.0,0,0.0,0.0,0.0
+Reyna Jenkyns,Reyna Jenkyns,5,; Members,12,37.0,3.0,2.002666666666667,0.0,286,1.0,66,1.0,37.0,0.11269934387681498
+Paul Trilsbeek,Paul Trilsbeek,1,; Members,0,0.0,0.0,0.0,0.0,546,0.0,0,0.0,0.0,0.0
+Leslie Delserone,Leslie Delserone,1,; Members,0,0.0,0.0,0.0,0.0,547,0.0,0,0.0,0.0,0.0
+Eric Maris,Eric Maris,3,; Members,2,6.0,4.0,2.648,0.0,440,1.0,1,1.0,6.0,0.009628766354726747
+Theodora Bloom,Theodora Bloom,3,; Members,4,12.0,3.0,2.032,0.0,489,1.0,6,1.0,12.0,0.03378020167471933
+Marcin Radecki,Marcin Radecki,1,; Members,0,0.0,0.0,0.0,0.0,548,0.0,0,0.0,0.0,0.0
+Jana Becker,Jana Becker,1,; Members,0,0.0,0.0,0.0,0.0,549,0.0,0,0.0,0.0,0.0
+Jorge Gil,Jorge Gil,3,; Members,6,18.0,3.0,2.018666666666667,0.0,763,1.0,15,1.0,18.0,0.053985316753278875
+HÃ¥kan Grudd,HÃ¥kan Grudd,9,; Members,84,325.0,3.0,1.7866666666666666,118.01407818110587,489,0.5682730923694779,1981,0.6100834,325.0,0.5142915703853077
+Reagan Moore,Reagan Moore,7,; Members,39,129.0,3.0,1.912,59.098756589746074,286,0.6720647773279352,498,0.68380255,129.0,0.26062380157334814
+Agriculture Data Interest Group (IGAD),Agriculture Data Interest Group (IGAD),1,Working Group,0,0.0,0.0,0.0,0.0,550,0.0,0,0.0,0.0,0.0
+John Westbrook,John Westbrook,4,; Members,17,52.0,3.0,1.984,0.0,489,1.0,136,1.0,52.0,0.15315855784969243
+Marco Fahmi,Marco Fahmi,2,; Members,0,0.0,0.0,0.0,0.0,551,0.0,0,0.0,0.0,0.0
+Tyng-Ruey Chuang,Tyng-Ruey Chuang,1,; Members,0,0.0,0.0,0.0,0.0,552,0.0,0,0.0,0.0,0.0
+Sven Bingert,Sven Bingert,2,; Members,0,0.0,0.0,0.0,0.0,553,0.0,0,0.0,0.0,0.0
+Melissa Levine,Melissa Levine,1,; Members,0,0.0,0.0,0.0,0.0,554,0.0,0,0.0,0.0,0.0
+Kei Kurakawa,Kei Kurakawa,2,; Members,0,0.0,0.0,0.0,0.0,555,0.0,0,0.0,0.0,0.0
+Mostafa Elag,Mostafa Elag,3,; Members,5,15.0,3.0,2.016,0.0,286,1.0,10,1.0,15.0,0.059010642282301795
+Rainer Stotzka,Rainer Stotzka,16,; Members,99,430.0,3.0,1.7493333333333334,999.1695573943413,286,0.43558029272314985,2113,0.5114381,430.0,0.530320414846225
+Tobias Weigel,Tobias Weigel,9,; Members,48,209.0,3.0,1.896,52.10882075983862,286,0.6613475177304965,746,0.7172962,209.0,0.29609936079694343
+Maria A. Krestyaninova,Maria A. Krestyaninova,1,; Members,0,0.0,0.0,0.0,0.0,556,0.0,0,0.0,0.0,0.0
+Geneva Henry,Geneva Henry,1,; Members,0,0.0,0.0,0.0,0.0,557,0.0,0,0.0,0.0,0.0
+Hermann Klug,Hermann Klug,1,; Members,0,0.0,0.0,0.0,0.0,558,0.0,0,0.0,0.0,0.0
+Johannes Keizer,Johannes Keizer,2,; Members,0,0.0,0.0,0.0,0.0,559,0.0,0,0.0,0.0,0.0
+Andreas Czerniak,Andreas Czerniak,2,; Members,0,0.0,0.0,0.0,0.0,560,0.0,0,0.0,0.0,0.0
+Robert Quick,Robert Quick,9,; Members,12,49.0,3.0,1.992,1.3536749482401658,286,0.8636363636363636,57,0.88682747,49.0,0.09604343016907894
+Thomas Ebel,Thomas Ebel,2,; Members,0,0.0,0.0,0.0,0.0,561,0.0,0,0.0,0.0,0.0
+Hugh Shanahan,Hugh Shanahan,3,; Members,5,15.0,3.0,2.018666666666667,0.0,763,1.0,10,1.0,15.0,0.039618129351845104
+Ralph MÃ_ller-Pfefferkorn,Ralph MÃ_ller-Pfefferkorn,9,; Members,74,279.0,3.0,1.808,104.24644965997128,440,0.57238059977786,1546,0.61869687,279.0,0.4550446489974444
+Chris Taylor,Chris Taylor,9,; Members,89,349.0,3.0,1.7786666666666666,116.94639112389746,489,0.5411133810010215,2119,0.6025006,349.0,0.5348579381054938
+Julie Speer,Julie Speer,6,; Members,37,130.0,3.0,1.9146666666666667,47.19693933928823,440,0.5960960960960962,397,0.6350427,130.0,0.20261977177915733
+Jens Klump,Jens Klump,1,; Members,0,0.0,0.0,0.0,0.0,562,0.0,0,0.0,0.0,0.0
+Nikos Houssos,Nikos Houssos,4,; Members,42,144.0,3.0,1.9066666666666667,4.483043318650042,697,0.8826945412311266,760,0.89735776,144.0,0.32069053668860625
+Pouria Amirian,Pouria Amirian,2,; Members,0,0.0,0.0,0.0,0.0,563,0.0,0,0.0,0.0,0.0
+Allison Fish,Allison Fish,1,; Members,0,0.0,0.0,0.0,0.0,564,0.0,0,0.0,0.0,0.0
+Marcus Hardt,Marcus Hardt,1,; Members,0,0.0,0.0,0.0,0.0,565,0.0,0,0.0,0.0,0.0
+Claudio Biale,Claudio Biale,2,; Members,0,0.0,0.0,0.0,0.0,566,0.0,0,0.0,0.0,0.0
+Alessandro Spinuso,Alessandro Spinuso,1,; Members,0,0.0,0.0,0.0,0.0,567,0.0,0,0.0,0.0,0.0
+Marjan Grootveld,Marjan Grootveld,1,; Members,0,0.0,0.0,0.0,0.0,568,0.0,0,0.0,0.0,0.0
+Geospatial IG,Geospatial IG,1,Working Group,0,0.0,0.0,0.0,0.0,569,0.0,0,0.0,0.0,0.0
+Gail Clement,Gail Clement,4,; Members,18,56.0,3.0,1.976,0.706040799454519,489,0.8954248366013072,137,0.8991597,56.0,0.13909187277952567
+Nandana Mihindukulasooriya,Nandana Mihindukulasooriya,2,; Members,0,0.0,0.0,0.0,0.0,570,0.0,0,0.0,0.0,0.0
+Kerstin Konitzer,Kerstin Konitzer,5,; Members,37,122.0,3.0,1.9173333333333333,6.699203783523492,489,0.8078078078078078,538,0.821949,122.0,0.27191031427507806
+Unmil Karadkar,Unmil Karadkar,3,; Members,2,6.0,3.0,2.04,0.0,489,1.0,1,1.0,6.0,0.014592661949945943
+StÃ©phane FranÃ§ois,StÃ©phane FranÃ§ois,1,; Members,0,0.0,0.0,0.0,0.0,571,0.0,0,0.0,0.0,0.0
+Kathleen Matthews,Kathleen Matthews,1,; Members,0,0.0,0.0,0.0,0.0,572,0.0,0,0.0,0.0,0.0
+Stefano Nativi,Stefano Nativi,3,; Members,4,12.0,3.0,2.024,0.0,697,1.0,6,1.0,12.0,0.03654809996305357
+Quality of Urban Life Interest Group,Quality of Urban Life Interest Group,1,Working Group,0,0.0,0.0,0.0,0.0,573,0.0,0,0.0,0.0,0.0
+Joan Starr,Joan Starr,1,; Members,0,0.0,0.0,0.0,0.0,574,0.0,0,0.0,0.0,0.0
+Sayeed Choudhury,Sayeed Choudhury,1,; Members,0,0.0,0.0,0.0,0.0,575,0.0,0,0.0,0.0,0.0
+Jon Johnson,Jon Johnson,2,; Members,0,0.0,0.0,0.0,0.0,576,0.0,0,0.0,0.0,0.0
+Marco Grossi,Marco Grossi,1,; Members,0,0.0,0.0,0.0,0.0,577,0.0,0,0.0,0.0,0.0
+Fabio Benedetti,Fabio Benedetti,1,; Members,0,0.0,0.0,0.0,0.0,578,0.0,0,0.0,0.0,0.0
+Rhona Phipps,Rhona Phipps,1,; Members,0,0.0,0.0,0.0,0.0,579,0.0,0,0.0,0.0,0.0
+Helen Glaves,Helen Glaves,6,; Members,40,142.0,3.0,1.912,5.787052090556007,286,0.8423076923076923,657,0.8625857,142.0,0.30490463182675387
+Anna Clements,Anna Clements,4,; Members,21,66.0,3.0,1.9626666666666666,3.736012434409686,440,0.8238095238095238,173,0.83181816,66.0,0.14332400131596876
+Elizabeth Arnaud,Elizabeth Arnaud,1,; Members,0,0.0,0.0,0.0,0.0,580,0.0,0,0.0,0.0,0.0
+Jingbo Wang,Jingbo Wang,11,; Members,86,357.0,3.0,1.7893333333333334,161.13671846344954,286,0.5264021887824898,1924,0.5930137,357.0,0.506893224836409
+Sarah Ramdeen,Sarah Ramdeen,2,; Members,0,0.0,0.0,0.0,0.0,581,0.0,0,0.0,0.0,0.0
+Daan Broeder,Daan Broeder,4,; Members,15,49.0,3.0,1.9893333333333334,0.8444444444444446,286,0.9142857142857143,96,0.9212828,49.0,0.10245399402781746
+Dawn Wright,Dawn Wright,4,; Members,17,54.0,3.0,1.9866666666666666,1.6972076982157625,286,0.9044117647058824,123,0.9097222,54.0,0.14730711153248327
+Chris Pettit,Chris Pettit,2,; Members,0,0.0,0.0,0.0,0.0,582,0.0,0,0.0,0.0,0.0
+Joshua Lieberman,Joshua Lieberman,1,; Members,0,0.0,0.0,0.0,0.0,583,0.0,0,0.0,0.0,0.0
+Heli VÃ_Ã_tÃ_jÃ_,Heli VÃ_Ã_tÃ_jÃ_,3,; Members,2,6.0,3.0,2.029333333333333,0.0,489,1.0,1,1.0,6.0,0.026905736959096368
+Sarah Dister,Sarah Dister,2,; Members,0,0.0,0.0,0.0,0.0,584,0.0,0,0.0,0.0,0.0
+Maggi Marcello,Maggi Marcello,1,; Members,0,0.0,0.0,0.0,0.0,585,0.0,0,0.0,0.0,0.0
+Shen-Shyang Ho,Shen-Shyang Ho,1,; Members,0,0.0,0.0,0.0,0.0,586,0.0,0,0.0,0.0,0.0
+Lukasz Bolikowski,Lukasz Bolikowski,10,; Members,101,432.0,3.0,1.7413333333333334,143.9192166695436,489,0.5106930693069307,2579,0.59347224,432.0,0.5928319631870145
+Jan HornÃ_Äçek,Jan HornÃ_Äçek,1,; Members,0,0.0,0.0,0.0,0.0,587,0.0,0,0.0,0.0,0.0
+ENRIQUE ALONSO GARCIA,ENRIQUE ALONSO GARCIA,1,; Members,0,0.0,0.0,0.0,0.0,588,0.0,0,0.0,0.0,0.0
+Tiziana Ferrari,Tiziana Ferrari,1,; Members,0,0.0,0.0,0.0,0.0,589,0.0,0,0.0,0.0,0.0
+Marc Maynard,Marc Maynard,1,; Members,0,0.0,0.0,0.0,0.0,590,0.0,0,0.0,0.0,0.0
+pierre le sidaner,pierre le sidaner,4,; Members,7,23.0,3.0,2.016,0.0,286,1.0,21,1.0,23.0,0.0697797127383803
+Lance McKee,Lance McKee,1,; Members,0,0.0,0.0,0.0,0.0,591,0.0,0,0.0,0.0,0.0
+Christoph Bruch,Christoph Bruch,1,; Members,0,0.0,0.0,0.0,0.0,592,0.0,0,0.0,0.0,0.0
+Ugis Sarkans,Ugis Sarkans,1,; Members,0,0.0,0.0,0.0,0.0,593,0.0,0,0.0,0.0,0.0
+Bruce Wilson,Bruce Wilson,1,; Members,0,0.0,0.0,0.0,0.0,594,0.0,0,0.0,0.0,0.0
+Michael Alaux,Michael Alaux,1,; Members,0,0.0,0.0,0.0,0.0,595,0.0,0,0.0,0.0,0.0
+Zhijie Zhang,Zhijie Zhang,11,; Members,65,282.0,3.0,1.8373333333333333,121.66069488487314,286,0.5557692307692308,1156,0.63270164,282.0,0.3985229070108228
+Julie Fukuyama,Julie Fukuyama,11,; Members,138,582.0,3.0,1.6346666666666667,538.0282159262697,440,0.36432878451285305,3444,0.43551058,582.0,0.6940137471789324
+Paul de Guchteneire,Paul de Guchteneire,1,; Members,0,0.0,0.0,0.0,0.0,596,0.0,0,0.0,0.0,0.0
+Panorea Gaitanou,Panorea Gaitanou,2,; Members,0,0.0,0.0,0.0,0.0,597,0.0,0,0.0,0.0,0.0
+Kwo-Sen Kuo,Kwo-Sen Kuo,2,; Members,0,0.0,0.0,0.0,0.0,598,0.0,0,0.0,0.0,0.0
+Mikael Laakso,Mikael Laakso,1,; Members,0,0.0,0.0,0.0,0.0,599,0.0,0,0.0,0.0,0.0
+Lucy Bastin,Lucy Bastin,1,; Members,0,0.0,0.0,0.0,0.0,600,0.0,0,0.0,0.0,0.0
+Danah Tonne,Danah Tonne,1,; Members,0,0.0,0.0,0.0,0.0,601,0.0,0,0.0,0.0,0.0
+Kate Roberts,Kate Roberts,6,; Members,47,175.0,3.0,1.896,4.5787966783321785,286,0.8723404255319149,943,0.89192545,175.0,0.36062626157691846
+Irene Pasquetto,Irene Pasquetto,1,; Members,0,0.0,0.0,0.0,0.0,602,0.0,0,0.0,0.0,0.0
+Ian Bruno,Ian Bruno,11,; Members,76,306.0,3.0,1.808,202.036920241858,489,0.5235087719298246,1492,0.56592596,306.0,0.4420709695885477
+Sophie Hou,Sophie Hou,4,; Members,15,48.0,3.0,1.9893333333333334,0.1276871452393274,697,0.9619047619047619,101,0.96428573,48.0,0.12795233199378767
+Mogens Sandfaer,Mogens Sandfaer,4,; Members,7,22.0,3.0,2.010666666666667,0.058823529411764705,440,0.9523809523809523,20,0.9545455,22.0,0.0657335128266164
+Danny Wallace,Danny Wallace,1,; Members,0,0.0,0.0,0.0,0.0,603,0.0,0,0.0,0.0,0.0
+Ahmed Shiraz Memon,Ahmed Shiraz Memon,2,; Members,0,0.0,0.0,0.0,0.0,604,0.0,0,0.0,0.0,0.0
+Practical Policy WG,Practical Policy WG,1,Working Group,0,0.0,0.0,0.0,0.0,605,0.0,0,0.0,0.0,0.0
+Andre Schaaff,Andre Schaaff,7,; Members,49,180.0,3.0,1.8826666666666667,20.856657105302244,286,0.7295918367346939,858,0.75972223,180.0,0.3406958849336197
+Dave Lyons,Dave Lyons,3,; Members,19,57.0,3.0,1.9786666666666666,0.0,286,1.0,171,1.0,57.0,0.18360272274494063
+Michelle Leonard,Michelle Leonard,2,; Members,0,0.0,0.0,0.0,0.0,606,0.0,0,0.0,0.0,0.0
+RDA/WDS Publishing Data Services WG,RDA/WDS Publishing Data Services WG,1,Working Group,0,0.0,0.0,0.0,0.0,607,0.0,0,0.0,0.0,0.0
+Megan Stadler,Megan Stadler,5,; Members,6,21.0,3.0,2.013333333333333,4.0,489,0.7333333333333333,11,0.7619048,21.0,0.050760012684298694
+Matthias L. Hemmje,Matthias L. Hemmje,7,; Members,52,192.0,3.0,1.88,63.076879952508165,286,0.6493212669683258,861,0.68678516,192.0,0.3458366396624344
+Mary Moulton,Mary Moulton,1,; Members,0,0.0,0.0,0.0,0.0,608,0.0,0,0.0,0.0,0.0
+Tracey P. Lauriault,Tracey P. Lauriault,2,; Members,0,0.0,0.0,0.0,0.0,609,0.0,0,0.0,0.0,0.0
+Christian CHABRERIE,Christian CHABRERIE,1,; Members,0,0.0,0.0,0.0,0.0,610,0.0,0,0.0,0.0,0.0
+Tomasz Miksa,Tomasz Miksa,4,; Members,6,19.0,3.0,2.024,0.0,489,1.0,15,1.0,19.0,0.05434311388132759
+Ranga Raju Vatsavai,Ranga Raju Vatsavai,1,; Members,0,0.0,0.0,0.0,0.0,611,0.0,0,0.0,0.0,0.0
+Dora Constantinidis,Dora Constantinidis,1,; Members,0,0.0,0.0,0.0,0.0,612,0.0,0,0.0,0.0,0.0
+Nicole Harris,Nicole Harris,1,; Members,0,0.0,0.0,0.0,0.0,613,0.0,0,0.0,0.0,0.0
+Claudia Kramer,Claudia Kramer,1,; Members,0,0.0,0.0,0.0,0.0,614,0.0,0,0.0,0.0,0.0
+Richard Kedemi,Richard Kedemi,2,; Members,0,0.0,0.0,0.0,0.0,615,0.0,0,0.0,0.0,0.0
+Gema Bueno-de-la-Fuente,Gema Bueno-de-la-Fuente,2,; Members,0,0.0,0.0,0.0,0.0,616,0.0,0,0.0,0.0,0.0
+Chris Muller,Chris Muller,1,; Members,0,0.0,0.0,0.0,0.0,617,0.0,0,0.0,0.0,0.0
+Peter Vats,Peter Vats,1,; Members,0,0.0,0.0,0.0,0.0,618,0.0,0,0.0,0.0,0.0
+Mike Rossner,Mike Rossner,1,; Members,0,0.0,0.0,0.0,0.0,619,0.0,0,0.0,0.0,0.0
+Christian PagÃ©,Christian PagÃ©,1,; Members,0,0.0,0.0,0.0,0.0,620,0.0,0,0.0,0.0,0.0
+Luiz Olavo Bonino da Silva Santos,Luiz Olavo Bonino da Silva Santos,1,; Members,0,0.0,0.0,0.0,0.0,621,0.0,0,0.0,0.0,0.0
+Xiaobin Shen,Xiaobin Shen,2,; Members,0,0.0,0.0,0.0,0.0,622,0.0,0,0.0,0.0,0.0
+RDA/CODATA Legal Interoperability IG,RDA/CODATA Legal Interoperability IG,1,Working Group,0,0.0,0.0,0.0,0.0,623,0.0,0,0.0,0.0,0.0
+Hilary Hanahoe,Hilary Hanahoe,23,; Members,192,969.0,2.0,1.488,1625.0648287727456,286,0.24721858638743455,4533,0.37209514,969.0,0.8308233393614662
+Carolyn Mattingly,Carolyn Mattingly,1,; Members,0,0.0,0.0,0.0,0.0,624,0.0,0,0.0,0.0,0.0
+Frank Schluenzen,Frank Schluenzen,3,; Members,3,9.0,3.0,2.026666666666667,0.0,286,1.0,3,1.0,9.0,0.037420381854553444
+Hrachya Astsatryan,Hrachya Astsatryan,2,; Members,0,0.0,0.0,0.0,0.0,625,0.0,0,0.0,0.0,0.0
+Ruth Wilson,Ruth Wilson,3,; Members,4,12.0,3.0,2.034666666666667,0.0,440,1.0,6,1.0,12.0,0.035612657179456726
+Jerome Pansanel,Jerome Pansanel,2,; Members,0,0.0,0.0,0.0,0.0,626,0.0,0,0.0,0.0,0.0
+Donat Agosti,Donat Agosti,4,; Members,5,17.0,3.0,2.021333333333333,0.0,286,1.0,10,1.0,17.0,0.0551372584351095
+Barry Wark,Barry Wark,2,; Members,0,0.0,0.0,0.0,0.0,627,0.0,0,0.0,0.0,0.0
+Terry Longstreth,Terry Longstreth,1,; Members,0,0.0,0.0,0.0,0.0,628,0.0,0,0.0,0.0,0.0
+Mark van de Sanden,Mark van de Sanden,2,; Members,0,0.0,0.0,0.0,0.0,629,0.0,0,0.0,0.0,0.0
+Martie van Deventer,Martie van Deventer,4,; Members,8,27.0,3.0,2.013333333333333,0.0,489,1.0,28,0.99999994,27.0,0.07671332572376087
+Cyril Pommier,Cyril Pommier,1,; Members,0,0.0,0.0,0.0,0.0,630,0.0,0,0.0,0.0,0.0
+Coline Blanpain,Coline Blanpain,1,; Members,0,0.0,0.0,0.0,0.0,631,0.0,0,0.0,0.0,0.0
+Cynthia Chandler,Cynthia Chandler,13,; Members,81,321.0,3.0,1.792,117.49267842817214,489,0.5601851851851852,1815,0.6158489,321.0,0.49237479968736136
+Norman Paskin,Norman Paskin,2,; Members,0,0.0,0.0,0.0,0.0,632,0.0,0,0.0,0.0,0.0
+Dimitrios Koureas,Dimitrios Koureas,10,; Members,75,271.0,3.0,1.8186666666666667,262.00794635294665,440,0.46126126126126127,1280,0.49980053,271.0,0.41006732458819173
+Aaike De Wever,Aaike De Wever,3,; Members,1,3.0,3.0,2.042666666666667,0.0,489,0.0,0,0.0,3.0,0.013793555484353725
+Joel Wurl,Joel Wurl,2,; Members,0,0.0,0.0,0.0,0.0,633,0.0,0,0.0,0.0,0.0
+Ana Macario,Ana Macario,5,; Members,21,74.0,3.0,1.968,2.270305913310584,286,0.8761904761904762,184,0.89054054,74.0,0.16940839981130273
+Dimitris Gavrilis,Dimitris Gavrilis,1,; Members,0,0.0,0.0,0.0,0.0,634,0.0,0,0.0,0.0,0.0
+Mei-Ling Israel,Mei-Ling Israel,1,; Members,0,0.0,0.0,0.0,0.0,635,0.0,0,0.0,0.0,0.0
+Chris Morris,Chris Morris,2,; Members,0,0.0,0.0,0.0,0.0,636,0.0,0,0.0,0.0,0.0
+Sandra Vieira Gomes,Sandra Vieira Gomes,1,; Members,0,0.0,0.0,0.0,0.0,637,0.0,0,0.0,0.0,0.0
+Phillip Delaney,Phillip Delaney,2,; Members,0,0.0,0.0,0.0,0.0,638,0.0,0,0.0,0.0,0.0
+Mark Donoghue,Mark Donoghue,5,; Members,10,32.0,3.0,2.013333333333333,0.9510731198231197,286,0.7777777777777778,35,0.7777778,32.0,0.06552066809975507
+Laura Kostanski,Laura Kostanski,1,; Members,0,0.0,0.0,0.0,0.0,639,0.0,0,0.0,0.0,0.0
+Johannes Reetz,Johannes Reetz,6,; Members,27,104.0,3.0,1.952,2.533381288984668,286,0.8888888888888888,312,0.9053255,104.0,0.2018912975268668
+Peter Kraker,Peter Kraker,4,; Members,21,67.0,3.0,1.9706666666666666,0.4849423639506423,489,0.9476190476190476,199,0.9507463,67.0,0.17279437734305847
+Simon Waddington,Simon Waddington,4,; Members,15,49.0,3.0,1.9946666666666666,0.942032967032967,286,0.9142857142857143,96,0.9212828,49.0,0.13427990264037284
+David Patterson,David Patterson,1,; Members,0,0.0,0.0,0.0,0.0,640,0.0,0,0.0,0.0,0.0
+Kenton McHenry,Kenton McHenry,1,; Members,0,0.0,0.0,0.0,0.0,641,0.0,0,0.0,0.0,0.0
+David Baker,David Baker,2,; Members,0,0.0,0.0,0.0,0.0,642,0.0,0,0.0,0.0,0.0
+Katherine Koziar,Katherine Koziar,1,; Members,0,0.0,0.0,0.0,0.0,643,0.0,0,0.0,0.0,0.0
+Jane Hunter,Jane Hunter,3,; Members,1,3.0,3.0,2.042666666666667,0.0,489,0.0,0,0.0,3.0,0.013793555484353725
+Effie Tsiflidou,Effie Tsiflidou,1,; Members,0,0.0,0.0,0.0,0.0,644,0.0,0,0.0,0.0,0.0
+Volker Hartmann,Volker Hartmann,3,; Members,27,81.0,3.0,1.9546666666666668,0.0,697,1.0,351,1.0,81.0,0.2209536556467354
+Fred Chan,Fred Chan,3,; Members,1,3.0,4.0,2.896,0.0,440,0.0,0,0.0,3.0,0.0029744388290972048
+Magalie Moysan,Magalie Moysan,1,; Members,0,0.0,0.0,0.0,0.0,645,0.0,0,0.0,0.0,0.0
+Paul Foster,Paul Foster,3,; Members,12,36.0,3.0,1.9973333333333334,0.0,286,1.0,66,1.0,36.0,0.12440888060162632
+Marco Rorro,Marco Rorro,1,; Members,0,0.0,0.0,0.0,0.0,646,0.0,0,0.0,0.0,0.0
+Robert Russo,Robert Russo,1,; Members,0,0.0,0.0,0.0,0.0,647,0.0,0,0.0,0.0,0.0
+Andrew Treloar,Andrew Treloar,21,; Members,171,888.0,3.0,1.552,986.4148915867818,286,0.28297213622291023,4113,0.41829625,888.0,0.7824701820597043
+Michel Dumontier,Michel Dumontier,5,; Members,26,89.0,3.0,1.96,8.723746362400421,286,0.8646153846153846,281,0.8786517,89.0,0.19683080819778498
+Mike Brown,Mike Brown,3,; Members,1,3.0,4.0,2.976,0.0,489,0.0,0,0.0,3.0,0.0019524203597716314
+Steven McEachern,Steven McEachern,5,; Members,43,148.0,3.0,1.9013333333333333,5.99167168399313,286,0.8383167220376523,757,0.856982,148.0,0.32461933487176425
+Rebecca Rouse,Rebecca Rouse,1,; Members,0,0.0,0.0,0.0,0.0,648,0.0,0,0.0,0.0,0.0
+Didier Leibovici,Didier Leibovici,5,; Members,21,69.0,3.0,1.9786666666666666,8.42322954822955,286,0.8380952380952381,176,0.85072464,69.0,0.17428981584905662
+Michael Hildreth,Michael Hildreth,2,; Members,0,0.0,0.0,0.0,0.0,649,0.0,0,0.0,0.0,0.0
+Richard Kipling,Richard Kipling,1,; Members,0,0.0,0.0,0.0,0.0,650,0.0,0,0.0,0.0,0.0
+Stuart Gagnon,Stuart Gagnon,1,; Members,0,0.0,0.0,0.0,0.0,651,0.0,0,0.0,0.0,0.0
+Claudia Engelhardt,Claudia Engelhardt,1,; Members,0,0.0,0.0,0.0,0.0,652,0.0,0,0.0,0.0,0.0
+Alicia Lopez Medina,Alicia Lopez Medina,1,; Members,0,0.0,0.0,0.0,0.0,653,0.0,0,0.0,0.0,0.0
+A. Chase Turner,A. Chase Turner,2,; Members,0,0.0,0.0,0.0,0.0,654,0.0,0,0.0,0.0,0.0
+Eleni Panagou,Eleni Panagou,7,; Members,30,102.0,3.0,1.944,7.301489815551278,286,0.7609195402298851,331,0.77552396,102.0,0.20523712112913017
+Patricia Cruse,Patricia Cruse,1,; Members,0,0.0,0.0,0.0,0.0,655,0.0,0,0.0,0.0,0.0
+Rebecca Lawrence,Rebecca Lawrence,2,; Members,0,0.0,0.0,0.0,0.0,656,0.0,0,0.0,0.0,0.0
+Patrice Lyons,Patrice Lyons,1,; Members,0,0.0,0.0,0.0,0.0,657,0.0,0,0.0,0.0,0.0
+Michael Brenner,Michael Brenner,1,; Members,0,0.0,0.0,0.0,0.0,658,0.0,0,0.0,0.0,0.0
+Sally Rumsey,Sally Rumsey,2,; Members,0,0.0,0.0,0.0,0.0,659,0.0,0,0.0,0.0,0.0
+Christoph Stich,Christoph Stich,3,; Members,6,18.0,3.0,2.018666666666667,0.0,763,1.0,15,1.0,18.0,0.05398531675327887
+Thomas Zastrow,Thomas Zastrow,8,; Members,63,255.0,3.0,1.8533333333333333,87.24427218926549,286,0.5852534562211982,1143,0.6469956,255.0,0.37485633098852733
+Sze Wong,Sze Wong,2,; Members,0,0.0,0.0,0.0,0.0,660,0.0,0,0.0,0.0,0.0
+Data Description Registry Interoperability (DDRI),Data Description Registry Interoperability (DDRI),1,Working Group,0,0.0,0.0,0.0,0.0,661,0.0,0,0.0,0.0,0.0
+Jamie Shiers,Jamie Shiers,7,; Members,19,70.0,3.0,1.968,2.1520068149155924,489,0.8304093567251462,142,0.8515873,70.0,0.13169674670356063
+Krister Larsson,Krister Larsson,1,; Members,0,0.0,0.0,0.0,0.0,662,0.0,0,0.0,0.0,0.0
+Arturo H. AriÃ±o,Arturo H. AriÃ±o,4,; Members,12,39.0,3.0,1.9973333333333334,1.1909302753983606,763,0.8636363636363636,57,0.8741259,39.0,0.07246868202375224
+Michael Witt,Michael Witt,5,; Members,9,30.0,3.0,2.005333333333333,0.46082949308755755,440,0.9444444444444444,34,0.95000005,30.0,0.07735432509296537
+Marianne van der Heijden,Marianne van der Heijden,2,; Members,0,0.0,0.0,0.0,0.0,663,0.0,0,0.0,0.0,0.0
+Volker Guelzow,Volker Guelzow,1,; Members,0,0.0,0.0,0.0,0.0,664,0.0,0,0.0,0.0,0.0
+Christophe Blanchet,Christophe Blanchet,1,; Members,0,0.0,0.0,0.0,0.0,665,0.0,0,0.0,0.0,0.0
+Data for Development,Data for Development,1,Working Group,0,0.0,0.0,0.0,0.0,666,0.0,0,0.0,0.0,0.0
+Joy Davidson,Joy Davidson,2,; Members,0,0.0,0.0,0.0,0.0,667,0.0,0,0.0,0.0,0.0
+Preservation e-Infrastructure IG,Preservation e-Infrastructure IG,1,Working Group,0,0.0,0.0,0.0,0.0,668,0.0,0,0.0,0.0,0.0
+Cynthia Hudson Vitale,Cynthia Hudson Vitale,12,; Members,109,420.0,3.0,1.7146666666666666,463.8280854698091,440,0.3895684675501189,2293,0.4489418,420.0,0.5569769640065456
+Brian Westra,Brian Westra,4,; Members,19,60.0,3.0,1.9786666666666666,1.3764995336193695,440,0.8713450292397661,149,0.87777776,60.0,0.13403551216169926
+Amalie SÃ¸gaard Nielsen,Amalie SÃ¸gaard Nielsen,4,; Members,33,109.0,3.0,1.9253333333333333,2.5893339780276334,440,0.9185606060606061,485,0.92603207,109.0,0.27613692903045606
+JESUS MARCO DE LUCAS,JESUS MARCO DE LUCAS,2,; Members,0,0.0,0.0,0.0,0.0,669,0.0,0,0.0,0.0,0.0
+Ingvill Constanze Mochmann,Ingvill Constanze Mochmann,1,; Members,0,0.0,0.0,0.0,0.0,670,0.0,0,0.0,0.0,0.0
+Dessi Kirilova,Dessi Kirilova,5,; Members,33,108.0,3.0,1.9386666666666668,4.688060173065961,440,0.8428030303030303,445,0.8518519,108.0,0.24559813032837388
+Alun Preece,Alun Preece,3,; Members,17,51.0,3.0,1.984,0.0,286,1.0,136,1.0,51.0,0.1649253469489877
+Kerry Albright,Kerry Albright,1,; Members,0,0.0,0.0,0.0,0.0,671,0.0,0,0.0,0.0,0.0
+Anton Van de Putte,Anton Van de Putte,2,; Members,0,0.0,0.0,0.0,0.0,672,0.0,0,0.0,0.0,0.0
+StÃ©phane Goldstein,StÃ©phane Goldstein,1,; Members,0,0.0,0.0,0.0,0.0,673,0.0,0,0.0,0.0,0.0
+Susanna-Assunta Sansone,Susanna-Assunta Sansone,9,; Members,48,191.0,3.0,1.8906666666666667,29.7653508455744,697,0.74822695035461,844,0.7887936,191.0,0.34706840632393426
+Robert Berry,Robert Berry,1,; Members,0,0.0,0.0,0.0,0.0,674,0.0,0,0.0,0.0,0.0
+John Graybeal,John Graybeal,1,; Members,0,0.0,0.0,0.0,0.0,675,0.0,0,0.0,0.0,0.0
+Ionut Iosifescu,Ionut Iosifescu,1,; Members,0,0.0,0.0,0.0,0.0,676,0.0,0,0.0,0.0,0.0
+Susan Reilly,Susan Reilly,1,; Members,0,0.0,0.0,0.0,0.0,677,0.0,0,0.0,0.0,0.0
+Adam Leadbetter,Adam Leadbetter,11,; Members,80,320.0,3.0,1.8053333333333332,162.98753476495952,286,0.5044303797468355,1594,0.5587816,320.0,0.4640308787515802
+Devika Madalli,Devika Madalli,3,; Members,5,15.0,3.0,2.032,0.0,79,1.0,10,1.0,15.0,0.0177148252276899
+Arthur Smith,Arthur Smith,7,; Members,38,125.0,3.0,1.92,22.034242353743156,489,0.6600284495021337,464,0.68,125.0,0.23194918216932472
+PID Information Types WG,PID Information Types WG,1,Working Group,0,0.0,0.0,0.0,0.0,678,0.0,0,0.0,0.0,0.0
+Lisa McDevitt,Lisa McDevitt,1,; Members,0,0.0,0.0,0.0,0.0,679,0.0,0,0.0,0.0,0.0
+AndrÃ¡s Micsik,AndrÃ¡s Micsik,5,; Members,32,117.0,3.0,1.936,0.8640374650273267,286,0.9475806451612904,470,0.955335,117.0,0.26781272593122313
+Talapady Bhat,Talapady Bhat,2,; Members,0,0.0,0.0,0.0,0.0,680,0.0,0,0.0,0.0,0.0
+Alexander Vondrous,Alexander Vondrous,1,; Members,0,0.0,0.0,0.0,0.0,681,0.0,0,0.0,0.0,0.0
+Erica Yang,Erica Yang,3,; Members,1,3.0,3.0,2.042666666666667,0.0,489,0.0,0,0.0,3.0,0.013793555484353725
+Robert Marcus,Robert Marcus,1,; Members,0,0.0,0.0,0.0,0.0,682,0.0,0,0.0,0.0,0.0
+Karrie Peterson,Karrie Peterson,1,; Members,0,0.0,0.0,0.0,0.0,683,0.0,0,0.0,0.0,0.0
+Paul-Olivier Dehaye,Paul-Olivier Dehaye,1,; Members,0,0.0,0.0,0.0,0.0,684,0.0,0,0.0,0.0,0.0
+Anton Angelo,Anton Angelo,2,; Members,0,0.0,0.0,0.0,0.0,685,0.0,0,0.0,0.0,0.0
+Marieka Arksey,Marieka Arksey,2,; Members,0,0.0,0.0,0.0,0.0,686,0.0,0,0.0,0.0,0.0
+Todd Carpenter,Todd Carpenter,6,; Members,32,112.0,3.0,1.9333333333333333,3.1321573241775607,440,0.8810483870967742,437,0.8951613,112.0,0.2652666013616906
+Sam Searle,Sam Searle,1,; Members,0,0.0,0.0,0.0,0.0,687,0.0,0,0.0,0.0,0.0
+Jill Kowalchuk,Jill Kowalchuk,1,; Members,0,0.0,0.0,0.0,0.0,688,0.0,0,0.0,0.0,0.0
+Caroline Martin,Caroline Martin,3,; Members,0,0.0,0.0,0.0,0.0,689,0.0,0,0.0,0.0,0.0
+Data Foundation and Terminology WG,Data Foundation and Terminology WG,1,Working Group,0,0.0,0.0,0.0,0.0,690,0.0,0,0.0,0.0,0.0
+Seraphim Alvanides,Seraphim Alvanides,2,; Members,0,0.0,0.0,0.0,0.0,691,0.0,0,0.0,0.0,0.0
+Robert Tanton,Robert Tanton,1,; Members,0,0.0,0.0,0.0,0.0,692,0.0,0,0.0,0.0,0.0
+Nicolas Bailly,Nicolas Bailly,1,; Members,0,0.0,0.0,0.0,0.0,693,0.0,0,0.0,0.0,0.0
+Alisdair Davey,Alisdair Davey,2,; Members,0,0.0,0.0,0.0,0.0,694,0.0,0,0.0,0.0,0.0
+Jonathan Tedds,Jonathan Tedds,12,; Members,78,321.0,3.0,1.8026666666666666,223.04596827086678,489,0.46287046287046285,1390,0.5221912,321.0,0.4214639391334371
+Adrea Lawrence,Adrea Lawrence,1,; Members,0,0.0,0.0,0.0,0.0,695,0.0,0,0.0,0.0,0.0
+Ingeborg Meijer,Ingeborg Meijer,1,; Members,0,0.0,0.0,0.0,0.0,696,0.0,0,0.0,0.0,0.0
+Ulrich Schwardmann,Ulrich Schwardmann,4,; Members,26,84.0,3.0,1.9546666666666668,3.9690043372470347,286,0.8615384615384616,280,0.87142855,84.0,0.18847693146488045
+Jeffrey Grethe,Jeffrey Grethe,22,; Members,204,1018.0,3.0,1.4613333333333334,2772.1752169300385,286,0.21954988892108568,4546,0.31922925,1018.0,0.8324827905733416
+Yuri Demchenko,Yuri Demchenko,2,; Members,0,0.0,0.0,0.0,0.0,698,0.0,0,0.0,0.0,0.0
+Karen Stocks,Karen Stocks,1,; Members,0,0.0,0.0,0.0,0.0,699,0.0,0,0.0,0.0,0.0
+Weihua Lu,Weihua Lu,5,; Members,39,139.0,3.0,1.9173333333333333,4.109552748960881,286,0.8771929824561403,650,0.8947368,139.0,0.29997206334638205
+Sherry Lake,Sherry Lake,7,; Members,48,167.0,3.0,1.8933333333333333,37.57439970432727,440,0.6879432624113475,776,0.71474075,167.0,0.31710531431098454
+Mattia Santoro,Mattia Santoro,2,; Members,0,0.0,0.0,0.0,0.0,700,0.0,0,0.0,0.0,0.0
+Stephan Kindermann,Stephan Kindermann,1,; Members,0,0.0,0.0,0.0,0.0,701,0.0,0,0.0,0.0,0.0
+Louise Darroch,Louise Darroch,1,; Members,0,0.0,0.0,0.0,0.0,702,0.0,0,0.0,0.0,0.0
+Melanie Davern,Melanie Davern,1,; Members,0,0.0,0.0,0.0,0.0,703,0.0,0,0.0,0.0,0.0
+Jamus Collier,Jamus Collier,1,; Members,0,0.0,0.0,0.0,0.0,704,0.0,0,0.0,0.0,0.0
+Thierry Badard,Thierry Badard,2,; Members,0,0.0,0.0,0.0,0.0,705,0.0,0,0.0,0.0,0.0
+Andrew Hunter,Andrew Hunter,1,; Members,0,0.0,0.0,0.0,0.0,706,0.0,0,0.0,0.0,0.0
+Maria Kinger,Maria Kinger,1,; Members,0,0.0,0.0,0.0,0.0,707,0.0,0,0.0,0.0,0.0
+Juanle Wang,Juanle Wang,1,; Members,0,0.0,0.0,0.0,0.0,708,0.0,0,0.0,0.0,0.0
+Ruth Bastow,Ruth Bastow,1,; Members,0,0.0,0.0,0.0,0.0,709,0.0,0,0.0,0.0,0.0
+Caterina Caracciolo,Caterina Caracciolo,2,; Members,0,0.0,0.0,0.0,0.0,710,0.0,0,0.0,0.0,0.0
+Nasser Abu-El-Noor,Nasser Abu-El-Noor,1,; Members,0,0.0,0.0,0.0,0.0,711,0.0,0,0.0,0.0,0.0
+Godwin Yeboah,Godwin Yeboah,19,; Members,148,714.0,3.0,1.6106666666666667,725.7422547030199,286,0.3366427652141938,3662,0.44410145,714.0,0.7255243972900602
+Malina Voicu,Malina Voicu,1,; Members,0,0.0,0.0,0.0,0.0,712,0.0,0,0.0,0.0,0.0
+Hans van Piggelen,Hans van Piggelen,3,; Members,3,9.0,3.0,2.616,0.0,489,1.0,3,1.0,9.0,0.015311448368207825
+Vyron Antoniou,Vyron Antoniou,1,; Members,0,0.0,0.0,0.0,0.0,713,0.0,0,0.0,0.0,0.0
+Michael Bruck,Michael Bruck,1,; Members,0,0.0,0.0,0.0,0.0,714,0.0,0,0.0,0.0,0.0
+Glen Hart,Glen Hart,1,; Members,0,0.0,0.0,0.0,0.0,715,0.0,0,0.0,0.0,0.0
+Kerry Taylor,Kerry Taylor,2,; Members,0,0.0,0.0,0.0,0.0,716,0.0,0,0.0,0.0,0.0
+Jeff Teeters,Jeff Teeters,1,; Members,0,0.0,0.0,0.0,0.0,717,0.0,0,0.0,0.0,0.0
+Amir Pourabdollah,Amir Pourabdollah,1,; Members,0,0.0,0.0,0.0,0.0,718,0.0,0,0.0,0.0,0.0
+James Cheney,James Cheney,1,; Members,0,0.0,0.0,0.0,0.0,719,0.0,0,0.0,0.0,0.0
+Conor Smyth,Conor Smyth,1,; Members,0,0.0,0.0,0.0,0.0,720,0.0,0,0.0,0.0,0.0
+Sheila Morrissey,Sheila Morrissey,1,; Members,0,0.0,0.0,0.0,0.0,721,0.0,0,0.0,0.0,0.0
+Josephine McRobbie,Josephine McRobbie,1,; Members,0,0.0,0.0,0.0,0.0,722,0.0,0,0.0,0.0,0.0
+Tim Robertson,Tim Robertson,1,; Members,0,0.0,0.0,0.0,0.0,723,0.0,0,0.0,0.0,0.0
+Guy Marcus,Guy Marcus,1,; Members,0,0.0,0.0,0.0,0.0,724,0.0,0,0.0,0.0,0.0
+Adam Farquhar,Adam Farquhar,3,; Members,7,21.0,3.0,2.016,0.0,440,1.0,21,1.0,21.0,0.059333004420552456
+John Kunze,John Kunze,2,; Members,0,0.0,0.0,0.0,0.0,725,0.0,0,0.0,0.0,0.0
+Timothy Lloyd,Timothy Lloyd,1,; Members,0,0.0,0.0,0.0,0.0,726,0.0,0,0.0,0.0,0.0
+Alex Whan,Alex Whan,1,; Members,0,0.0,0.0,0.0,0.0,727,0.0,0,0.0,0.0,0.0
+Marius Appel,Marius Appel,1,; Members,0,0.0,0.0,0.0,0.0,728,0.0,0,0.0,0.0,0.0
+ANA CASINO,ANA CASINO,1,; Members,0,0.0,0.0,0.0,0.0,729,0.0,0,0.0,0.0,0.0
+Anton Ellenbroek,Anton Ellenbroek,2,; Members,0,0.0,0.0,0.0,0.0,730,0.0,0,0.0,0.0,0.0
+Bengt Persson,Bengt Persson,1,; Members,0,0.0,0.0,0.0,0.0,731,0.0,0,0.0,0.0,0.0
+Christopher Brown,Christopher Brown,3,; Members,5,15.0,3.0,2.024,0.0,440,1.0,10,1.0,15.0,0.05199840170465565
+Barbora DrobÃ_kovÃ¡,Barbora DrobÃ_kovÃ¡,1,; Members,0,0.0,0.0,0.0,0.0,732,0.0,0,0.0,0.0,0.0
+Rob Baxter,Rob Baxter,4,; Members,5,17.0,3.0,2.021333333333333,0.0,489,1.0,10,1.0,17.0,0.054142073858347614
+JÃ¶rg Meyer,JÃ¶rg Meyer,1,; Members,0,0.0,0.0,0.0,0.0,733,0.0,0,0.0,0.0,0.0
+Michela Vignoli,Michela Vignoli,2,; Members,0,0.0,0.0,0.0,0.0,734,0.0,0,0.0,0.0,0.0
+Andreas Harth,Andreas Harth,1,; Members,0,0.0,0.0,0.0,0.0,735,0.0,0,0.0,0.0,0.0
+Marco Leonardi,Marco Leonardi,1,; Members,0,0.0,0.0,0.0,0.0,736,0.0,0,0.0,0.0,0.0
+Joseph Frank,Joseph Frank,1,; Members,0,0.0,0.0,0.0,0.0,737,0.0,0,0.0,0.0,0.0
+Willi Egloff,Willi Egloff,1,; Members,0,0.0,0.0,0.0,0.0,738,0.0,0,0.0,0.0,0.0
+Rorie Edmunds,Rorie Edmunds,7,; Members,31,141.0,3.0,1.9333333333333333,6.401840346896417,489,0.8150537634408602,379,0.8475177,141.0,0.18602443267762162
+Jodine Perkins,Jodine Perkins,1,; Members,0,0.0,0.0,0.0,0.0,739,0.0,0,0.0,0.0,0.0
+Amber Boehnlein,Amber Boehnlein,1,; Members,0,0.0,0.0,0.0,0.0,740,0.0,0,0.0,0.0,0.0
+Laurie Goodman,Laurie Goodman,1,; Members,0,0.0,0.0,0.0,0.0,741,0.0,0,0.0,0.0,0.0
+Peter Baker,Peter Baker,2,; Members,0,0.0,0.0,0.0,0.0,742,0.0,0,0.0,0.0,0.0
+Milo Thurston,Milo Thurston,1,; Members,0,0.0,0.0,0.0,0.0,743,0.0,0,0.0,0.0,0.0
+Jochen Schirrwagen,Jochen Schirrwagen,5,; Members,27,94.0,3.0,1.9413333333333334,6.846092312781311,440,0.7777777777777778,273,0.79787236,94.0,0.18243883668713334
+Fabrizio Gagliardi,Fabrizio Gagliardi,1,; Members,0,0.0,0.0,0.0,0.0,744,0.0,0,0.0,0.0,0.0
+Jean-Baptiste Bohuon,Jean-Baptiste Bohuon,2,; Members,0,0.0,0.0,0.0,0.0,745,0.0,0,0.0,0.0,0.0
+Greg Foliente,Greg Foliente,1,; Members,0,0.0,0.0,0.0,0.0,746,0.0,0,0.0,0.0,0.0
+Rolf Krahl,Rolf Krahl,1,; Members,0,0.0,0.0,0.0,0.0,747,0.0,0,0.0,0.0,0.0
+Charalampos Thanopoulos,Charalampos Thanopoulos,4,; Members,2,8.0,3.0,2.029333333333333,0.0,489,1.0,1,1.0,8.0,0.026905736959096368
+Yannis Ioannidis,Yannis Ioannidis,1,; Members,0,0.0,0.0,0.0,0.0,748,0.0,0,0.0,0.0,0.0
+Francoise Genova,Francoise Genova,6,; Members,25,81.0,3.0,1.9546666666666668,1.0210703932215812,489,0.9066666666666666,272,0.91358024,81.0,0.20147038528135483
+Scott Edmunds,Scott Edmunds,1,; Members,0,0.0,0.0,0.0,0.0,749,0.0,0,0.0,0.0,0.0
+Carmen Reverte,Carmen Reverte,2,; Members,0,0.0,0.0,0.0,0.0,750,0.0,0,0.0,0.0,0.0
+Marco Scarselli,Marco Scarselli,3,; Members,9,27.0,3.0,2.005333333333333,0.0,286,1.0,36,1.0,27.0,0.08189253869013
+Mike Jackson,Mike Jackson,1,; Members,0,0.0,0.0,0.0,0.0,751,0.0,0,0.0,0.0,0.0
+Christina Drummond,Christina Drummond,3,; Members,3,9.0,3.0,2.037333333333333,0.0,286,1.0,3,1.0,9.0,0.03498605521038488
+Stuart Macdonald,Stuart Macdonald,2,; Members,0,0.0,0.0,0.0,0.0,752,0.0,0,0.0,0.0,0.0
+Anne Thessen,Anne Thessen,5,; Members,8,29.0,3.0,2.013333333333333,0.39607843137254906,440,0.8928571428571429,25,0.9064039,29.0,0.05707024829060971
+Christina Hoppermann,Christina Hoppermann,2,; Members,0,0.0,0.0,0.0,0.0,753,0.0,0,0.0,0.0,0.0
+Lesley Wyborn,Lesley Wyborn,14,; Members,100,420.0,3.0,1.7413333333333334,234.53907689645254,489,0.47333333333333333,2343,0.5406927,420.0,0.5617111866389204
+Robert Davidson,Robert Davidson,3,; Members,2,6.0,3.0,2.029333333333333,0.0,489,1.0,1,1.0,6.0,0.026905736959096368
+Adrian Tear,Adrian Tear,2,; Members,0,0.0,0.0,0.0,0.0,754,0.0,0,0.0,0.0,0.0
+Najla Rettberg,Najla Rettberg,2,; Members,0,0.0,0.0,0.0,0.0,755,0.0,0,0.0,0.0,0.0
+Margie Smith,Margie Smith,1,; Members,0,0.0,0.0,0.0,0.0,756,0.0,0,0.0,0.0,0.0
+Claire Austin,Claire Austin,3,; Members,1,3.0,4.0,2.7466666666666666,0.0,286,0.0,0,0.0,3.0,0.0069556038345667945
+Mark Filipiak,Mark Filipiak,1,; Members,0,0.0,0.0,0.0,0.0,757,0.0,0,0.0,0.0,0.0
+Christopher Crosby,Christopher Crosby,1,; Members,0,0.0,0.0,0.0,0.0,758,0.0,0,0.0,0.0,0.0
+Jakub Peisar,Jakub Peisar,2,; Members,0,0.0,0.0,0.0,0.0,759,0.0,0,0.0,0.0,0.0
+Holger Brocks,Holger Brocks,4,; Members,10,32.0,3.0,2.008,2.0166666666666666,286,0.8222222222222222,37,0.8333333,32.0,0.0727374606129215
+Pablo de Castro,Pablo de Castro,1,; Members,0,0.0,0.0,0.0,0.0,760,0.0,0,0.0,0.0,0.0
+Elizabeth Griffin,Elizabeth Griffin,4,; Members,2,7.0,3.0,2.029333333333333,0.0,489,1.0,1,1.0,7.0,0.026905736959096368
+Klaus Rechert,Klaus Rechert,1,; Members,0,0.0,0.0,0.0,0.0,761,0.0,0,0.0,0.0,0.0
+Ingemar HÃ_ggstrÃ¶m,Ingemar HÃ_ggstrÃ¶m,5,; Members,25,84.0,3.0,1.9626666666666666,3.301652557416118,286,0.87,261,0.88144845,84.0,0.19766496359867652
+Swati Chawla,Swati Chawla,1,; Members,0,0.0,0.0,0.0,0.0,762,0.0,0,0.0,0.0,0.0
+Lisa Raymond,Lisa Raymond,5,; Members,30,94.0,3.0,1.944,5.865207189847426,489,0.8206896551724138,357,0.82758623,94.0,0.22411322303656478
+Limor Peer,Limor Peer,4,; Members,6,18.0,3.0,2.021333333333333,0.3073083778966132,489,0.8,12,0.8,18.0,0.03681918291423919
+Shiva Khanal,Shiva Khanal,10,; Members,34,127.0,3.0,1.9253333333333333,43.10872014242071,763,0.5472370766488414,307,0.60081124,127.0,0.19735092464955636
+Juha Muilu,Juha Muilu,2,; Members,0,0.0,0.0,0.0,0.0,764,0.0,0,0.0,0.0,0.0
+Valeria Pesce,Valeria Pesce,3,; Members,2,6.0,3.0,2.04,0.0,489,1.0,1,1.0,6.0,0.0243082003798108
+Lisa Zilinski,Lisa Zilinski,8,; Members,40,133.0,3.0,1.8986666666666667,450.9851632963192,440,0.47692307692307695,372,0.511471,133.0,0.2184368980360413
+Kenji Takeda,Kenji Takeda,3,; Members,2,6.0,3.0,2.029333333333333,0.0,489,1.0,1,1.0,6.0,0.026905736959096368
+RDA/WDS Publishing Data IG,RDA/WDS Publishing Data IG,1,Working Group,0,0.0,0.0,0.0,0.0,765,0.0,0,0.0,0.0,0.0
+Beth Massa,Beth Massa,3,; Members,4,12.0,3.0,2.024,0.0,763,1.0,6,1.0,12.0,0.04322328378184211
+Julia Maintz,Julia Maintz,1,; Members,0,0.0,0.0,0.0,0.0,766,0.0,0,0.0,0.0,0.0
+Helena Mitasova,Helena Mitasova,1,; Members,0,0.0,0.0,0.0,0.0,767,0.0,0,0.0,0.0,0.0
