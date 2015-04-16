@@ -1,2 +1,2 @@
-# rda
-Data from notebook post about RDA
+Some data and code for RDA work. 
+See notebook entries here: http://nicwe.be/rda
